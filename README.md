@@ -41,13 +41,14 @@
 
 ### Ongoing
 
-- Reading: 《解读中国经济：聚焦新时代的关键问题》 林毅夫 202406
+- Reading: 
 - Learning: Maths, Economic History, Development of China
 - Project: Public Space Model Using DCE
 
 
 ### Past
 
+- (book) 《解读中国经济：聚焦新时代的关键问题》 林毅夫 (fn:202406)
 - (course) Prep Maths and Mathematical Methods Oxford (fn:202406)
 - (book) 《置身事内：中国政府与经济发展》兰小欢 (fn:202406)
 - (book) 《伟大的中国工业革命：“发展政治经济学”一般原理批判纲要》 文一 (fn:202405)
