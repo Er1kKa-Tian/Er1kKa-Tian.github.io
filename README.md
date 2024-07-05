@@ -48,6 +48,7 @@
 
 ### Past
 
+- (book) 《分析与思考：黄奇帆的复旦经济课》 黄奇帆 (fn:202407)
 - (book) 《解读中国经济：聚焦新时代的关键问题》 林毅夫 (fn:202406)
 - (course) Prep Maths and Mathematical Methods Oxford (fn:202406)
 - (book) 《置身事内：中国政府与经济发展》兰小欢 (fn:202406)
