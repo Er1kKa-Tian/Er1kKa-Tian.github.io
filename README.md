@@ -24,7 +24,7 @@
 ### (Somewhat) Profession Related
 
 - Proficient: Python, SQL, STATA, LaTeX
-- Beginner-Intermediate: Tableau, Git, C, JavaScript, HTML, CSS
+- Beginner-Intermediate: Tableau, Git, C, JavaScript, HTML, CSS, R
 
 ### Personal
 
@@ -42,7 +42,7 @@
 ### Ongoing
 
 - Reading: 
-- Learning: Maths, Economic History, Development of China
+- Learning: Maths, Economic History, Development of China, (course) [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - Project: Public Space Model Using DCE
 
 
