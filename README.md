@@ -41,13 +41,14 @@
 
 ### Ongoing
 
-- Reading: 
-- Learning: Maths, Economic History, Development of China, (course) [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- Reading: 《当代中国政府与政治》 景跃进 et al.
+- Learning: Maths, Economic History, Development of China
 - Project: Public Space Model Using DCE
 
 
 ### Past
 
+- (course) [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) (fn: 202407)
 - (book) 《分析与思考：黄奇帆的复旦经济课》 黄奇帆 (fn:202407)
 - (book) 《解读中国经济：聚焦新时代的关键问题》 林毅夫 (fn:202406)
 - (course) Prep Maths and Mathematical Methods Oxford (fn:202406)
