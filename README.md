@@ -41,7 +41,9 @@
 
 ### Ongoing
 
-- Reading: 《当代中国政府与政治》 景跃进 et al.
+- Reading: 
+    - 《当代中国政府与政治》 景跃进 et al.
+    - 《繁荣与停滞：日本经济发展和转型》 伊藤隆敏 星岳雄
 - Learning: Maths, Economic History, Development of China
 - Project: Public Space Model Using DCE
 
