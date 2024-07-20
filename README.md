@@ -43,13 +43,13 @@
 
 - Reading: 
     - 《当代中国政府与政治》 景跃进 et al.
-    - 《繁荣与停滞：日本经济发展和转型》 伊藤隆敏 星岳雄
 - Learning: Maths, Economic History, Development of China
-- Project: Public Space Model Using DCE
+- Project: NA
 
 
 ### Past
 
+- (book) 《繁荣与停滞：日本经济发展和转型》 伊藤隆敏 星岳雄 (fn:202407)
 - (course) [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) (fn: 202407)
 - (book) 《分析与思考：黄奇帆的复旦经济课》 黄奇帆 (fn:202407)
 - (book) 《解读中国经济：聚焦新时代的关键问题》 林毅夫 (fn:202406)
