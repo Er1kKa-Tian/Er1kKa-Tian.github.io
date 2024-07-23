@@ -43,8 +43,8 @@
 
 - Reading: 
     - 《当代中国政府与政治》 景跃进 et al.
-- Learning: Maths, Economic History, Development of China
-- Project: NA
+- Learning: Econometrics, Economic History, Development of China, Arduino
+- Project: DIY HUD for my (friend's) car
 
 
 ### Past
