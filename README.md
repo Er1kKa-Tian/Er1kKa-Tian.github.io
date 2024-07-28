@@ -29,7 +29,7 @@
 ### Personal
 
 - Daily: Obsidian, Zotero
-- Interest: PS, LR, GTP
+- Interest: PS, LR
 
 
 ## Resrouces
@@ -42,6 +42,7 @@
 ### Ongoing
 
 - Reading: 
+    - 《美国增长的起落》 Robert Gordon
     - 《当代中国政府与政治》 景跃进 et al.
 - Learning: Econometrics, Economic History, Development of China, Arduino
 - Project: DIY HUD for my (friend's) car
