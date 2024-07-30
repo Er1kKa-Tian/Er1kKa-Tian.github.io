@@ -24,12 +24,18 @@
 ### (Somewhat) Profession Related
 
 - Proficient: Python, SQL, STATA, LaTeX
-- Beginner-Intermediate: Tableau, Git, C, JavaScript, HTML, CSS, R
+- Beginner-Intermediate: Tableau, Git, C, JavaScript, HTML, CSS, R, Arduino
 
 ### Personal
 
 - Daily: Obsidian, Zotero
-- Interest: PS, LR
+- Interest: PS, LR, also planning to learn a DAW
+
+### Thoughts on software..
+
+I highly recommend Obsidian as a notetaking / archiving / knowledge management software. It's free, has a viberant community & plug-in market, and uses markdown.
+
+For pdf markups and rough notetaking, I use Notability (less frequently now) and BoardNotes (has more functionalities) on iPad. There are many decent softwares, but the risk is obvious -- they use close-source file formats..
 
 
 ## Resrouces
@@ -42,7 +48,7 @@
 ### Ongoing
 
 - Reading: 
-    - 《美国增长的起落》 Robert Gordon
+    - 《美国增长的起落 The Rise and Fall of American Growth》 Robert Gordon
     - 《当代中国政府与政治》 景跃进 et al.
 - Learning: Econometrics, Economic History, Development of China, Arduino
 - Project: DIY HUD for my (friend's) car
