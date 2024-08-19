@@ -48,13 +48,13 @@ For pdf markups and rough notetaking, I use Notability (less frequently now) and
 ### Ongoing
 
 - Reading: 
-    - 《当代中国政府与政治》 景跃进 et al.
 - Learning: Econometrics, Economic History, Development of China, Arduino
 - Project:
 
 
 ### Past
 
+- (book) 《当代中国政府与政治》 景跃进 et al. (fn: 202408)
 - (book) 《美国增长的起落 The Rise and Fall of American Growth》 Robert Gordon (fn: 202408)
 - (book) 《繁荣与停滞：日本经济发展和转型》 伊藤隆敏 星岳雄 (fn:202407)
 - (course) [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) (fn: 202407)
