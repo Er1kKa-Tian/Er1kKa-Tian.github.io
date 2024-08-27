@@ -48,6 +48,8 @@ For pdf markups and rough notetaking, I use Notability (less frequently now) and
 ### Ongoing
 
 - Reading: 
+    - 《小镇喧嚣：一个乡镇政治运作的演绎与阐释》 吴毅
+    - 《中国社会科学院国际形势研究报告2024》 中国社会科学院国际研究学部
 - Learning: Econometrics, Economic History, Development of China, Arduino
 - Project:
 
