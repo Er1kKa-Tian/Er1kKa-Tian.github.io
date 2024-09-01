@@ -48,7 +48,6 @@ For pdf markups and rough notetaking, I use Notability (less frequently now) and
 ### Ongoing
 
 - Reading: 
-    - 《小镇喧嚣：一个乡镇政治运作的演绎与阐释》 吴毅
     - 《中国社会科学院国际形势研究报告2024》 中国社会科学院国际研究学部
 - Learning: Econometrics, Economic History, Development of China, Arduino
 - Project:
@@ -56,23 +55,25 @@ For pdf markups and rough notetaking, I use Notability (less frequently now) and
 
 ### Past
 
-- (book) 《当代中国政府与政治》 景跃进 et al. (fn: 202408)
-- (book) 《美国增长的起落 The Rise and Fall of American Growth》 Robert Gordon (fn: 202408)
-- (book) 《繁荣与停滞：日本经济发展和转型》 伊藤隆敏 星岳雄 (fn:202407)
-- (course) [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) (fn: 202407)
-- (book) 《分析与思考：黄奇帆的复旦经济课》 黄奇帆 (fn:202407)
-- (book) 《解读中国经济：聚焦新时代的关键问题》 林毅夫 (fn:202406)
-- (course) Prep Maths and Mathematical Methods Oxford (fn:202406)
-- (book) 《置身事内：中国政府与经济发展》兰小欢 (fn:202406)
-- (book) 《伟大的中国工业革命：“发展政治经济学”一般原理批判纲要》 文一 (fn:202405)
-- (book) 《大国大城：当代中国的统一、发展与平衡》 陆铭 (fn:202405)
-- (book) 《这次不一样：八百年金融危机史》 Carmen Reinhart et al. (fn:202404)
-- (book) 《跨越边界的社区：北京“浙江村”的生活史》 项飙 (还没看完)
-- (course) UCB Data100 (fn:202404)
-- (course) Harvard CS50P (fn:202312)
-- (course) Harvard CS50X (fn:202311)
-- (course) MIT 18.06 Linear Algebra (fn:202308)
-- (course) MIT The Missing Semester of Your CS Education (fn:202308)
+- (book: social science) 《小镇喧嚣：一个乡镇政治运作的演绎与阐释》 吴毅 (fn: 202409)
+- (book: casual) 《在峡江的转弯处》 陈行甲 (fn: 202408)
+- (book: politics) 《当代中国政府与政治》 景跃进 et al. (fn: 202408)
+- (book: economics) 《美国增长的起落 The Rise and Fall of American Growth》 Robert Gordon (fn: 202408)
+- (book: economics) 《繁荣与停滞：日本经济发展和转型》 伊藤隆敏 星岳雄 (fn:202407)
+- (course: general) [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) (fn: 202407)
+- (book: economics) 《分析与思考：黄奇帆的复旦经济课》 黄奇帆 (fn:202407)
+- (book: economics) 《解读中国经济：聚焦新时代的关键问题》 林毅夫 (fn:202406)
+- (course: maths) Prep Maths and Mathematical Methods Oxford (fn:202406)
+- (book: economics) 《置身事内：中国政府与经济发展》兰小欢 (fn:202406)
+- (book: economics) 《伟大的中国工业革命：“发展政治经济学”一般原理批判纲要》 文一 (fn:202405)
+- (book: economics) 《大国大城：当代中国的统一、发展与平衡》 陆铭 (fn:202405)
+- (book: economics) 《这次不一样：八百年金融危机史》 Carmen Reinhart et al. (fn:202404)
+- (book: social science) 《跨越边界的社区：北京“浙江村”的生活史》 项飙 (还没看完)
+- (course: data science) UCB Data100 (fn:202404)
+- (course: cs) Harvard CS50P (fn:202312)
+- (course: cs) Harvard CS50X (fn:202311)
+- (course: maths) MIT 18.06 Linear Algebra (fn:202308)
+- (course: cs) MIT The Missing Semester of Your CS Education (fn:202308)
 
 
 
