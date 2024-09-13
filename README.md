@@ -35,7 +35,7 @@
 
 I highly recommend Obsidian as a notetaking / archiving / knowledge management software. It's free, has a viberant community & plug-in market, and uses markdown.
 
-For pdf markups and rough notetaking, I use Notability (less frequently now) and BoardNotes (has more functionalities) on iPad. There are many decent softwares, but the risk is obvious -- they use close-source file formats..
+For pdf markups and rough notetaking, I use Notability (less frequently now) and BoardNotes on iPad. There are many decent softwares, but the risk is obvious -- they use close-source file formats..
 
 
 ## Resrouces
@@ -48,13 +48,14 @@ For pdf markups and rough notetaking, I use Notability (less frequently now) and
 ### Ongoing
 
 - Reading: 
-    - 《中国社会科学院国际形势研究报告2024》 中国社会科学院国际研究学部
-- Learning: Econometrics, Economic History, Development of China, Arduino
+- Learning: 
+    - Ox MPhil Y1: Core Micro/Macro/Metrics
 - Project:
 
 
 ### Past
 
+- (book: politics)《中国社会科学院国际形势研究报告2024》 中国社会科学院国际研究学部 (fn: 202409)
 - (book: social science) 《小镇喧嚣：一个乡镇政治运作的演绎与阐释》 吴毅 (fn: 202409)
 - (book: casual) 《在峡江的转弯处》 陈行甲 (fn: 202408)
 - (book: politics) 《当代中国政府与政治》 景跃进 et al. (fn: 202408)
