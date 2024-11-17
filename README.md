@@ -47,7 +47,9 @@ For pdf markups and rough notetaking, I use Notability (less frequently now) and
 
 ### Ongoing
 
-- Reading: 
+- Reading:
+  - The New China Playbook: Beyond Socialism and Capitalism. Keyu Jin
+  - The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies. Brynjolfsson, Erik. 2016. 
 - Learning: 
     - Ox MPhil Y1: Core Micro/Macro/Metrics
 - Project:
