@@ -58,6 +58,7 @@ For pdf markups and rough notetaking, I use Notability (less frequently now) and
 
 ### Past
 
+- (book: economics) 21st Century Monetary Policy: The Federal Reserve from the Great Inflation to COVID-19. Ben S. Bernanke
 - (book: economics) The New China Playbook: Beyond Socialism and Capitalism. Keyu Jin (fn: 202412)
 - (book: politics)《中国社会科学院国际形势研究报告2024》 中国社会科学院国际研究学部 (fn: 202409)
 - (book: social science) 《小镇喧嚣：一个乡镇政治运作的演绎与阐释》 吴毅 (fn: 202409)
@@ -73,7 +74,7 @@ For pdf markups and rough notetaking, I use Notability (less frequently now) and
 - (book: economics) 《伟大的中国工业革命：“发展政治经济学”一般原理批判纲要》 文一 (fn:202405)
 - (book: economics) 《大国大城：当代中国的统一、发展与平衡》 陆铭 (fn:202405)
 - (book: economics) 《这次不一样：八百年金融危机史》 Carmen Reinhart et al. (fn:202404)
-- (book: social science) 《跨越边界的社区：北京“浙江村”的生活史》 项飙 (还没看完)
+- (book: social science) 《跨越边界的社区：北京“浙江村”的生活史》 项飙
 - (course: data science) UCB Data100 (fn:202404)
 - (course: cs) Harvard CS50P (fn:202312)
 - (course: cs) Harvard CS50X (fn:202311)
