@@ -48,8 +48,9 @@ For pdf markups and rough notetaking, I use Notability (less frequently now) and
 ### Ongoing
 
 - Reading:
-  - The New China Playbook: Beyond Socialism and Capitalism. Keyu Jin
-  - The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies. Brynjolfsson, Erik. 2016. 
+  - Economics: the User’s Guide; a Pelican Introduction. Ha-joon Chang
+  - 23 Things They Don't Tell You about Capitalism. Ha-joon Chang
+
 - Learning: 
     - Ox MPhil Y1: Core Micro/Macro/Metrics
 - Project:
@@ -57,6 +58,7 @@ For pdf markups and rough notetaking, I use Notability (less frequently now) and
 
 ### Past
 
+- (book: economics) The New China Playbook: Beyond Socialism and Capitalism. Keyu Jin (fn: 202412)
 - (book: politics)《中国社会科学院国际形势研究报告2024》 中国社会科学院国际研究学部 (fn: 202409)
 - (book: social science) 《小镇喧嚣：一个乡镇政治运作的演绎与阐释》 吴毅 (fn: 202409)
 - (book: casual) 《在峡江的转弯处》 陈行甲 (fn: 202408)
