@@ -48,17 +48,16 @@ For pdf markups and rough notetaking, I use Notability (less frequently now) and
 ### Ongoing
 
 - Reading:
-  - Economics: the User’s Guide; a Pelican Introduction. Ha-joon Chang
-  - 23 Things They Don't Tell You about Capitalism. Ha-joon Chang
+  - (book: economics) The value of everything: making and taking in the global economy. Mazzucato, M. ()
 
 - Learning: 
-    - Ox MPhil Y1: Core Micro/Macro/Metrics
+
 - Project:
 
 
 ### Past
 
-- (book: economics) 21st Century Monetary Policy: The Federal Reserve from the Great Inflation to COVID-19. Ben S. Bernanke
+- (book: economics) 21st Century Monetary Policy: The Federal Reserve from the Great Inflation to COVID-19. Ben S. Bernanke (fn: 202501)
 - (book: economics) The New China Playbook: Beyond Socialism and Capitalism. Keyu Jin (fn: 202412)
 - (book: politics)《中国社会科学院国际形势研究报告2024》 中国社会科学院国际研究学部 (fn: 202409)
 - (book: social science) 《小镇喧嚣：一个乡镇政治运作的演绎与阐释》 吴毅 (fn: 202409)
