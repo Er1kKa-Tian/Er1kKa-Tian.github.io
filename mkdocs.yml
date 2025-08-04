@@ -9,6 +9,12 @@ theme:
   favicon: assets/profile_pic.png
   features:
     - navigation.footer
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.code.annotate
+    - content.action.edit
   palette:
     # Dark Mode
     - scheme: slate
@@ -42,6 +48,9 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 
 extra:
   social:
@@ -51,5 +60,17 @@ extra:
       link: https://github.com/Er1kKa-Tian
     - icon: material/email
       link: mailto:er1kka.tian@outlook.com
+
+nav:
+  - Home: index.md
+  - My Background: about.md
+  - Academic:
+      - Overview: academic/academic_index.md
+  - Projects:
+      - Overview: projects/project_index.md
+  - Travel:
+      - Overview: travel/travel_index.md
+  - Personal:
+    - with Yangyang: yangyang/yangyang_index.md
 
 copyright: Copyright &copy; 2025 Xiaotian Tian
