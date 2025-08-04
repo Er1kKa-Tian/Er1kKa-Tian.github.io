@@ -48,7 +48,6 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
-  - attr_list
   - md_in_html
   - pymdownx.blocks.caption
 
@@ -70,7 +69,12 @@ nav:
       - Overview: projects/project_index.md
   - Travel:
       - Overview: travel/travel_index.md
+      - UK:
+        - Brockenhurst: travel/uk/brockenhurst.md
+      - Europe:
+        - Bosnia and Herzegovina: travel/europe/bosnia_and_herzegovina.md
   - Personal:
-    - with Yangyang: yangyang/yangyang_index.md
+    - with Yangyang: personal/yangyang/yangyang_index.md
+    - Friends: personal/friends.md
 
 copyright: Copyright &copy; 2025 Xiaotian Tian
