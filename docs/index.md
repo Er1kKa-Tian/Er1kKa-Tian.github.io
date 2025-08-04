@@ -4,13 +4,14 @@
 
 **随缘更新这个页面**
 
-欢迎与我闲聊，email: er1kka.tian@outlook.com
+欢迎与我闲聊 chat welcoming!
 
 ## About Me (TL;DR) :beers:
 
 - Oxford MPhil Econ Class of 2026; Graduated from UCL in 2023
 - Currently living in Oxford OX2, UK
 - Github: [https://github.com/Er1kKa-Tian](https://github.com/Er1kKa-Tian)
-- Linkedin: [https://www.linkedin.com/in/xiaotian-tian/](https://www.linkedin.com/in/xiaotian-tian/) (not frequently checked)
+- Linkedin: [https://www.linkedin.com/in/xiaotian-tian/](https://www.linkedin.com/in/xiaotian-tian/)
+- Email: [er1kka.tian@outlook.com](mailto:er1kka.tian@outlook.com)
 
 
