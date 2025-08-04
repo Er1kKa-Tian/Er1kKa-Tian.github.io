@@ -1,0 +1,55 @@
+site_name: Xiaotian Tian's Secret Garden
+site_url: https://er1kka-tian.github.io/
+theme:
+  name: material
+  font:
+    text: Libertinus Sans
+    code: Red Hat Mono
+  logo: assets/profile_pic.png
+  favicon: assets/profile_pic.png
+  features:
+    - navigation.footer
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: pink
+      accent: indigo
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: pink
+      accent: indigo
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+extra:
+  social:
+    - icon: material/linkedin
+      link: https://www.linkedin.com/in/xiaotian-tian/
+    - icon: material/github
+      link: https://github.com/Er1kKa-Tian
+    - icon: material/email
+      link: mailto:er1kka.tian@outlook.com
+
+copyright: Copyright &copy; 2025 Xiaotian Tian
