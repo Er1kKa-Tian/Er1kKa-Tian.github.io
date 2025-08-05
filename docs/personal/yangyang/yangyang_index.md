@@ -18,7 +18,7 @@
 **Old Library, Oxford, UK** ![Old lib 2](/assets/yangyang/yangyang_and_i_oldlib2.jpg) My favourite place in the Old Library.
 { .card }
 
-**St Hilda's College, Oxford, UK** ![College](/assets/yangyang/yangyang_and_i_college.jpg) (from yangyang.ruru) I don't appreciate the bike management system here, but it is always fun to park here with you!
+**St Hilda's College, Oxford, UK** ![College](/assets/yangyang/yangyang_and_i_college.jpg) (from yangyang.ruru) I don't appreciate the bike management system here, but it is always exciting to park here with you!
 { .card }
 
 **Cosmo Restaurant, Oxford, UK** ![Cosmo](/assets/yangyang/yangyang_and_i_cosmo.jpg) 
