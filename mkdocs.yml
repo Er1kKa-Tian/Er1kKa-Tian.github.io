@@ -11,6 +11,7 @@ theme:
     - navigation.footer
     - navigation.expand
     - navigation.sections
+    - navigation.indexes
     - navigation.top
     - toc.integrate
     - content.code.annotate
@@ -61,6 +62,8 @@ markdown_extensions:
   - pymdownx.details
   - md_in_html
   - pymdownx.blocks.caption
+  - pymdownx.arithmatex:
+      generic: true
 
 extra:
   social:
@@ -70,6 +73,10 @@ extra:
       link: https://github.com/Er1kKa-Tian
     - icon: material/email
       link: mailto:er1kka.tian@outlook.com
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
   - Home: index.md
