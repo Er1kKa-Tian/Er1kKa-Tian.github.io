@@ -34,15 +34,18 @@ To ensure we wouldn't miss our flight, our journey started at 3AM in the morning
 
 The first stop is Oxford Gloucester Bus Station where we took the National Express 737 to Gatwick. Surprisingly, there were a few other passengers onboard. I must complain about the horrible design of seats -- their shape perfectly went against human's spine, which made us extremely uncomfortable during that 2-hour journey.
 
-Nevertheless, at least the bus was on time, and we went through all the procedures at Gatwick smoothly. By 07:45, we already seated on our flight to Sarajevo.
-
-???+ tip "Wizz Air"
+???+ inline end tip "Wizz Air"
 
     You need to get everything ready before going to the airport. They even charge a fee for printing boarding passes at the airport!
 
     But you can't ask more considering their ticket fare, right?
 
-(todo: airport)
+
+Nevertheless, at least the bus was on time, and we went through all the procedures at Gatwick smoothly. By 07:45, we already seated on our flight to Sarajevo.
+
+The flight was smooth and we got a beautiful glimpse of snow-capped mountains when crossing Switzland.
+
+As there's no convenient public transportation going from Sarajevo airport to the city centre, we dicided to take a taxi. Taxies at the aiport are notoriously known for overcharging tourist, but we had been well prepared for that --- using our carefully preplanned tactics:
 
 ???+ example "Taxi at Sarajevo Airport"
 
@@ -58,17 +61,22 @@ Nevertheless, at least the bus was on time, and we went through all the procedur
 
     We've tried and succeeded. Only understanding the basic language grants you additional advantage that you won't be able to understand any furious insults from the local driver :)
 
-(todo: finding our room)
+The real trouble started after we arrived at the building where our Airbnb room located. 
 
+We did not purchase a SIM card at the airport since we deemed there should be better options. Since we also did not having roaming services, we were basically cut off from the internet. The only clue about our airbnb location was a couple of esoteric Bosnian sentences received from our host, which we couldn't decipher.
+
+We first located the building --- which was fairly easy since it's named using the format of "street + number", and Yangyang had stayed in that room a few years ago. However, finding the exact room was a huge challenge. In that Soviet-style residential building, there was not a number system for the rooms. Instead, each room had its own name in Bosnian, so we couldn't even know on which floor was our room! The breakthrough came from the host's message: I noticed there was a word "četiri" --- sounds like "четыре" in Russian, which means number "4". Combined with the fact that both are Slavic languages, I inferred that our room should be on the 4th floor. Then, Yangyang came up with the genius idea of using her phone to try connecting to Wifi from each of the rooms, and that method worked. We also noticed that room's name also somewhere in the host's message, so we became certain about our conclusion --- we plugged in the key, and the door opened.
 
 ### WEEKENDS ARE WEEKENDS!
 
-(todo: no one worked on weekends)
+That room made me feel nostalgic the moment I stepped in. It's hard to precisely describe why, but everything was so familiar as if I had been there before. There were some lads playing football outside. Accompanied by that sound, under slight dizziness caused by low fever, I got a small nap on the sofa, feeling like a normal afternoon 15 years ago in the old apartment where my childhood remains.
+
+(todo: looking for food and supermarket; no one worked on weekends, envn no one on the street; shop at the gasoline station)
 
 
 ### A City where You Cannot Ignore Its History
 
-(todo: traces of history)
+(todo: traces of history; crows and prays; wars; sunshines, clouds, drizzles, storms, floods)
 
 
 ## The Train between Sarajevo and Mostar
@@ -76,6 +84,10 @@ Nevertheless, at least the bus was on time, and we went through all the procedur
 ### The New, The Old
 
 (todo: trains and railway infrastructure)
+
+???+ inline end "Purchasing Tickets"
+
+    (todo)
 
 ### Across the Mountains
 
@@ -89,9 +101,13 @@ Nevertheless, at least the bus was on time, and we went through all the procedur
 (todo: flood, food, wondering around)
 
 
+### People
+
+
 ### Coffee, Econometrics, and My Loved One
 
 (todo: coffee, revision, yangyang)
 
-## Moves On
+## Moving On, They and Us
 
+(todo: )
