@@ -34,7 +34,7 @@ To ensure we wouldn't miss our flight, our journey started at 3AM in the morning
 
 The first stop is Oxford Gloucester Bus Station where we took the National Express 737 to Gatwick. Surprisingly, there were a few other passengers onboard. I must complain about the horrible design of seats -- their shape perfectly went against human's spine, which made us extremely uncomfortable during that 2-hour journey.
 
-???+ inline end tip "Wizz Air"
+???+ tip "Wizz Air"
 
     You need to get everything ready before going to the airport. They even charge a fee for printing boarding passes at the airport!
 
@@ -43,11 +43,24 @@ The first stop is Oxford Gloucester Bus Station where we took the National Expre
 
 Nevertheless, at least the bus was on time, and we went through all the procedures at Gatwick smoothly. By 07:45, we already seated on our flight to Sarajevo.
 
-The flight was smooth and we got a beautiful glimpse of snow-capped mountains when crossing Switzland.
+???+ info inline end "Mountains"
+    
+    **Mountains** ![Mountains](/assets/bosnia/wizz_air.jpg){ width="400"}
+    { .card }
+    
+    **Sarajevo Airport** ![Sarajevo Airport](/assets/bosnia/sarajevo_airport.jpg){ width="400"} Walk yourself from the aircraft to the border control.
+    { .card }
+
+The flight was smooth and we got a beautiful glimpse of snow-capped mountains when crossing Switzerland.
+
 
 As there's no convenient public transportation going from Sarajevo airport to the city centre, we dicided to take a taxi. Taxies at the aiport are notoriously known for overcharging tourist, but we had been well prepared for that --- using our carefully preplanned tactics:
 
 ???+ example "Taxi at Sarajevo Airport"
+
+    ???+ inline end "Official Fares"
+
+        ![Official Fares](/assets/bosnia/sarajevo_taxi.jpg){ width="300"}
 
     For locals, the taxi fare from the airport to city centre is typically 20 KM/BAM. However, taxi drivers will charge more than 40 KM/BAM for tourists. BUT THAT WON'T BE THE CASE FOR US!
     
@@ -71,12 +84,43 @@ We first located the building --- which was fairly easy since it's named using t
 
 That room made me feel nostalgic the moment I stepped in. It's hard to precisely describe why, but everything was so familiar as if I had been there before. There were some lads playing football outside. Accompanied by that sound, under slight dizziness caused by low fever, I got a small nap on the sofa, feeling like a normal afternoon 15 years ago in the old apartment where my childhood remains.
 
+???+ info inline "Our Airbnb at Sarajevo"
+
+    **Seats for Two** ![room](/assets/bosnia/sarajevo_airbnb_1.jpg){ width="300"} Table perfect for the two of us.
+    { .card }
+
+    **Bedroom** ![room](/assets/bosnia/sarajevo_airbnb_2.jpg){ width="300"} Warm feeling.
+    { .card }
+
+    **View outside the Window** ![room](/assets/bosnia/sarajevo_airbnb_3.jpg){ width="300"} Lads played football all day long.
+    { .card }
+
+
+
 (todo: looking for food and supermarket; no one worked on weekends, envn no one on the street; shop at the gasoline station)
 
 
 ### A City where You Cannot Ignore Its History
 
 (todo: traces of history; crows and prays; wars; sunshines, clouds, drizzles, storms, floods)
+
+
+???+ info inline "Remains of Wars"
+
+    **Buildings in Sarajevo** ![building](/assets/bosnia/sarajevo_building.jpg){ width="300" } You can see shell craters everywhere on the buildings.
+    { .card }
+
+    **ICAR Canned Beef Monument** ![beefcan](/assets/bosnia/sarajevo_beefcan.jpg){ width="300" } A memorial to the food aid delivered during the Siege of Sarajevo.
+    { .card }
+
+???+ info inline "History Traces"
+
+    **Armored Train** ![armored train](/assets/bosnia/sarajevo_armored_train.jpg){ width="400" } An armored train located in the "Military Theme Playground" next to the famout Tito Cafe. We did see kids playing there during our visits.
+    { .card }
+
+    **Field of Flags** ![field of flags](/assets/bosnia/sarajevo_field_of_flags.jpg){ width="400" } "The flags symbolize the struggles, triumphs, and transformations that have shaped the country."
+    { .card }
+
 
 
 ## The Train between Sarajevo and Mostar
