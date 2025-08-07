@@ -83,11 +83,17 @@ nav:
   - My Background: about.md
   - Academic:
       - Overview: academic/academic_index.md
+  - Projects:
+      - Overview: projects/project_index.md
+  - How I Learned Everything?: 
+      - Main page: learning/learning_index.md
+      - Methodology:  learning/methodology.md
+      - Oxford MPhil Economics:
+          - Overview: learning/ox_mphil_econ/ox_mphil_econ_index.md
+      - Progress Tracker: learning/tracker.md
   - Resources:
       - UCL BSc Econ Notes: resources/ucl_notes.md
       - Oxford MPhil Econ Notes: resources/ox_notes.md
-  - Projects:
-      - Overview: projects/project_index.md
   - Travel:
       - Overview: travel/travel_index.md
       - UK:
