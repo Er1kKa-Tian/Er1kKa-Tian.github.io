@@ -84,20 +84,33 @@ We first located the building --- which was fairly easy since it's named using t
 
 That room made me feel nostalgic the moment I stepped in. It's hard to precisely describe why, but everything was so familiar as if I had been there before. There were some lads playing football outside. Accompanied by that sound, under slight dizziness caused by low fever, I got a small nap on the sofa, feeling like a normal afternoon 15 years ago in the old apartment where my childhood remains.
 
-???+ info inline "Our Airbnb at Sarajevo"
+???+ info inline end "Our Airbnb at Sarajevo"
 
     **Seats for Two** ![room](/assets/bosnia/sarajevo_airbnb_1.jpg){ width="300"} Table perfect for the two of us.
     { .card }
 
-    **Bedroom** ![room](/assets/bosnia/sarajevo_airbnb_2.jpg){ width="300"} Warm feeling.
+    **Bedroom** ![room](/assets/bosnia/sarajevo_airbnb_2.jpg){ width="300" } Warm feeling.
     { .card }
 
     **View outside the Window** ![room](/assets/bosnia/sarajevo_airbnb_3.jpg){ width="300"} Lads played football all day long.
     { .card }
 
+At around 4pm, we decided to walk to the city centre and find some food. After crossing the Milajcka River, we saw some people walking alongside the river bank --- parents and children mostly. They walked on the centre of the road as there's not a single car around. We only saw some traffic after getting to Zmaja od Bosne (Dragon of Bosnia) street, the main axis of Sarajevo city which located in a East-West valley. The iconic trams also run on that street. Cars were generally smaller than elsewhere and significant tear and wear could be spotted.
 
+There was hardly anyone in the city centre. We walked around, and all businesses were closed --- including the largest shopping mall Sarajevo SCC and the KFC inside. On the other side of the street located the parliament, there's even no guard or police around or inside the parliament! Supposedly, criminal and protestors were also taking the Saturday off. Everyone was taking Saturday seriously as a day for rest but not for work --- an equilibrium hardly any economists would think of unless they saw it.
 
-(todo: looking for food and supermarket; no one worked on weekends, envn no one on the street; shop at the gasoline station)
+Luckily, there's a cafe still open. It's the Caribou Coffee, and Yangyang had been there in her last visit. Probably due to the weather, or because he felt bad to be the only person working on Saturday in the country, the manager was not as enthusiastic as in Yangyang's last visit. Nevertheless, the food was still delicious, and the chicken sandwich was served to me after being heated in the microwave, which is something the British had yet to learn.
+
+We also met a Chinese man in the cafe. I thought he was someone working here, but he turned out to be a marathon runner who had just finished the Mostar Marathon. He was the only Chinese we met on that day, and indeed the only one apart from some tourist groups with Shanghai accent in the following days. We did not see any Chinese business during our whole trip --- quite surprising to me at least.
+
+We picked another way home, along which located small monuments, parks, and low office buildings (actually a UN office). Before reaching our destination, we were fortunate enough to find the second open business --- a convenient store in a gasoline station. No one spoke English there, but somehow we got no trouble in purchasing some snacks and drinks.
+
+(By now, I realised I probably included too many details, but writing those seems to have revived plenty of memories that I nearly forget, especially the feeling of walking alongside Yangyang in that gloomy dusk. The slight discomfort from fever, nervousness from unknown environment, roaring wind, circling crows, but her warm hands holding mine --- something made me immersed into and cannot stop.)
+
+Anyway, that was the first day. Time for a good night of sleep.
+
+### Locals and Visitors
+
 
 
 ### A City where You Cannot Ignore Its History
