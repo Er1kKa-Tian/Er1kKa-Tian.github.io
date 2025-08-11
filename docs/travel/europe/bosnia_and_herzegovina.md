@@ -82,18 +82,18 @@ We first located the building --- which was fairly easy since it's named using t
 
 ### WEEKENDS ARE WEEKENDS!
 
-That room made me feel nostalgic the moment I stepped in. It's hard to precisely describe why, but everything was so familiar as if I had been there before. There were some lads playing football outside. Accompanied by that sound, under slight dizziness caused by low fever, I got a small nap on the sofa, feeling like a normal afternoon 15 years ago in the old apartment where my childhood remains.
-
 ???+ info inline end "Our Airbnb at Sarajevo"
 
-    **Seats for Two** ![room](/assets/bosnia/sarajevo_airbnb_1.jpg){ width="300"} Table perfect for the two of us.
+    **Seats for Two** ![room](/assets/bosnia/sarajevo_airbnb_1.jpg){ width="200"} Table perfect for the two of us.
     { .card }
 
-    **Bedroom** ![room](/assets/bosnia/sarajevo_airbnb_2.jpg){ width="300" } Warm feeling.
+    **Bedroom** ![room](/assets/bosnia/sarajevo_airbnb_2.jpg){ width="200" } Warm feeling.
     { .card }
 
-    **View outside the Window** ![room](/assets/bosnia/sarajevo_airbnb_3.jpg){ width="300"} Lads played football all day long.
+    **View outside the Window** ![room](/assets/bosnia/sarajevo_airbnb_3.jpg){ width="200"} Lads played football all day long.
     { .card }
+
+That room made me feel nostalgic the moment I stepped in. It's hard to precisely describe why, but everything was so familiar as if I had been there before. There were some lads playing football outside. Accompanied by that sound, under slight dizziness caused by low fever, I got a small nap on the sofa, feeling like a normal afternoon 15 years ago in the old apartment where my childhood remains.
 
 At around 4pm, we decided to walk to the city centre and find some food. After crossing the Milajcka River, we saw some people walking alongside the river bank --- parents and children mostly. They walked on the centre of the road as there's not a single car around. We only saw some traffic after getting to Zmaja od Bosne (Dragon of Bosnia) street, the main axis of Sarajevo city which located in a East-West valley. The iconic trams also run on that street. Cars were generally smaller than elsewhere and significant tear and wear could be spotted.
 
@@ -109,35 +109,62 @@ We picked another way home, along which located small monuments, parks, and low 
 
 Anyway, that was the first day. Time for a good night of sleep.
 
+???+ info "History Traces"
+
+    <div class="grid" markdown>
+
+    **Armored Train** ![armored train](/assets/bosnia/sarajevo_armored_train.jpg){ width="300" } An armored train located in the "Military Theme Playground" next to the famout Tito Cafe. We did see kids playing there during our visits.
+    { .card }
+
+    **Field of Flags** ![field of flags](/assets/bosnia/sarajevo_field_of_flags.jpg){ width="300" } "The flags symbolize the struggles, triumphs, and transformations that have shaped the country."
+    { .card }
+
+    **Buildings in Sarajevo** ![building](/assets/bosnia/sarajevo_building.jpg){ width="200" } You can see shell craters everywhere on the buildings.
+    { .card }
+
+    **ICAR Canned Beef Monument** ![beefcan](/assets/bosnia/sarajevo_beefcan.jpg){ width="200" } A memorial to the food aid delivered during the Siege of Sarajevo.
+    { .card }
+
+???+ info "City Centre, Parliament, and the Blue Hours"
+
+    ![scc](/assets/bosnia/sarajevo_centre.jpg){ width="300" }
+    ![parliament](/assets/bosnia/sarajevo_parliament.jpg){ width="300" }
+    ![bluehours](/assets/bosnia/sarajevo_blue_hours.jpg){ width="300" }
+    
+
 ### Locals and Visitors
+
+???+ info inline "Paper Moon"
+
+    ![papermoon](/assets/bosnia/sarajevo_papermoon.jpg){ width="300" }
 
 The weather was still cloudy on our second day. Somehow we skipped for the breakfast and opted for a hearty lunch. With extreme hunger and excitement from escaping British food, we ordered a steak, chicken pasta, and prawn salad from a nearby restaurant named "Paper Moon". Though located in an old apartment building, the restaurant itself was well decorated. I have to be honest that the price was sure not cheap (in the Bosnian sense), but the exceptional taste and amount instantly proved its value. As we enjoying our gourmet dishes, some shiny cars that did not fit in the street view parked outside, and people wearing suits seated down around another table. They seemed to be frequent visitors here. We couldn't understand what they were chatting, but probably not about the delicious food I suppose.
 
+???+ info inline end "Yangyang and the Cats"
+
+    ![cats](/assets/bosnia/sarajevo_cats.jpg){ width="200" }
+
 On the way home, we encountered some unexpected locals -- cats. The fluffy guys probably had 7-day weekends per week, as they just kept lying on a sofa, not even reacting to our approach. Another surprise is that we accidentally walked into a local market hidden behind buildings where a few elders were selling fruits and vegetables. With Bosnian phrases learned from 30min Youtube videos a mixture with Russian words, I somehow successfully bought a couple of apples and bananas, which offered me a feeling of competency that I never had on a foreign language before. Of course, I soon had to re-evaluate my mastery in Bosnian as I tried to purchase a SIM card and struggled to explain when the saleslady seemed to be doubting my cash as counterfeit.
+
+Under the long-awaited sunshine, we decided to have another trip to see the landmarks of Sarajevo. After a short while of waiting under some curious eyesights from the locals, we hopped on a tram heading to the Latin Bridge (Latinska ćuprija) where Ferdinand of Austria was assassinated. Our tram driver, who was surprisingly patient and friendly, somehow understood our destinations and carefully handed me the ticket and changes.
+
+We finally saw other tourists while walking around the Latin Bridge --- but only a few, not even comparable to the most deserted season in Nanjing, which again surprised me, considering how well-know is the assassination. Located north-eastern to the Latin Bridge was the Baščaršija, a bustling market with 600 years of history. Just as typical tourist attractions elsewhere, dazzling gadgets, blankets, drawings appeared everywhere with peddlers and shops all around. There seemed to be a huge tourist group from China with familiar Shanghai accents. Once I always wondered how merchants on the Silk Road made deals without understanding exotic languages along the way, a question answered lively by those tourists. Probably, "communication problem" is only a problem when one side want to shun away; when both sides were positive to getting the business done, you can answer Bosnian with Shanghainess.
+
+???+ info
+
+    ![market](/assets/bosnia/sarajevo_market.jpg){ width="300" }
+    ![latinbridge](/assets/bosnia/sarajevo_latin_bridge.jpg){ width="300" }
+
+
 
 
 
 ### A City where You Cannot Ignore Its History
 
+Marching all the way to the east, the journey started to be more tiring as we climbed to the Yellow Fortress. Looking upward, there were patches of graves all over the hill --- some in the cross shape and some in other styles, but mostly white. Having only minor decays, those graves appeared to be the most modern human artefacts around. The Yellow Fortress, on the mid-hill, provided a perfect panorama for the Sarajevo city under the tilting sun.
+
+
 (todo: traces of history; crows and prays; wars; sunshines, clouds, drizzles, storms, floods)
-
-
-???+ info inline "Remains of Wars"
-
-    **Buildings in Sarajevo** ![building](/assets/bosnia/sarajevo_building.jpg){ width="300" } You can see shell craters everywhere on the buildings.
-    { .card }
-
-    **ICAR Canned Beef Monument** ![beefcan](/assets/bosnia/sarajevo_beefcan.jpg){ width="300" } A memorial to the food aid delivered during the Siege of Sarajevo.
-    { .card }
-
-???+ info inline "History Traces"
-
-    **Armored Train** ![armored train](/assets/bosnia/sarajevo_armored_train.jpg){ width="400" } An armored train located in the "Military Theme Playground" next to the famout Tito Cafe. We did see kids playing there during our visits.
-    { .card }
-
-    **Field of Flags** ![field of flags](/assets/bosnia/sarajevo_field_of_flags.jpg){ width="400" } "The flags symbolize the struggles, triumphs, and transformations that have shaped the country."
-    { .card }
-
 
 
 ## The Train between Sarajevo and Mostar
