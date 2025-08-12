@@ -163,6 +163,19 @@ We finally saw other tourists while walking around the Latin Bridge --- but only
 
 Marching all the way to the east, the journey started to be more tiring as we climbed to the Yellow Fortress. Looking upward, there were patches of graves all over the hill --- some in the cross shape and some in other styles, but mostly white. Having only minor decays, those graves appeared to be the most modern human artefacts around. The Yellow Fortress, on the mid-hill, provided a perfect panorama for the Sarajevo city under the tilting sun.
 
+(From Yangyang) We climbed slowly toward the Yellow Fortress, and the cobbled path curling upward past rows of white graves. The white graves stood like silent sentinels on the hillside, their marble faces aglow in the day’s last light. From a distance, they seemed to watch over the city. Sarajevo is built not only on stone and soil, but on the bones and memories of those who came before.
+
+From the hilltop, the city unfolded beneath us—red roofs, minarets, church towers, and streets winding like threads between them. Yet the view was not only beautiful; it was heavy with what had passed here. The dissolution of Yugoslavia, the siege, the war—they had left their marks, etched into walls and woven into air. History here does not retire quietly to books or museums; it lingers, clinging to bullet-pocked facades, echoing in alleyways, waiting in the pause between footsteps.
+
+We were fortunate to catch a silver lining breaking through the mist after a sudden rain. In the fading light, Sarajevo seemed to breathe both sorrow and stillness, finding a balance between the two. Some wish history, especially those who have lived through it, to rest between the soil and the dawn. Others—unyielding—would let old blood seep once more into the city’s cracks, unwilling to see memory fade into quietness. This has always been my impression of Bosnia, in both the figurative and the physical. 
+
+Three decades on, Bosnia still bears its wounds in the form of unfinished buildings with skeletal frames of concrete that stand alone against the wind. It is hard to know how much this history has shaped the country's unhurried Sundays. Yet perhaps the past has made its people to embrace a slower rhythm, a quiet turning away from the grind toward a gentler, shared equilibrium.
+
+Later, we lingered over tea in a small café on the hill before making our way back to the city centre. The cobblestones, slick from the days of constant rain, made the descent treacherous, but thanks to Xiaotian’s warm & steady & lovely hand, I managed not to fall. Along the way, we met a group of children - likely Turkish, judging by a word we recognised, one taught to us by a friend whose talents span from Turkish, Swahili, to serious economic research. They were brimming with excitement, planning what sounded like a pizza party somewhere up in the hills.
+
+Further down, we encountered two rival gangs of cats - tails flicking, eyes narrowed, ears tilted in wary calculation. The battle of the fluffies hovered just on the edge of breaking out, the tension palpable (comical). 
+
+The downhill stretch on this side was gentler, the pace unhurried. The air smelled faintly of wet stone and woodsmoke, and with each step, the city seemed to rise toward us, slowly reclaiming us from the hills. 
 
 (todo: traces of history; crows and prays; wars; sunshines, clouds, drizzles, storms, floods)
 
