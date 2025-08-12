@@ -179,6 +179,18 @@ Marching all the way to the east, the journey started to be more tiring as we cl
 
     The downhill stretch on this side was gentler, the pace unhurried. The air smelled faintly of wet stone and woodsmoke, and with each step, the city seemed to rise toward us, slowly reclaiming us from the hills. 
 
+$\uparrow$ Her words are so delicate while engaging, which made my writings completely lackluster. This story would be much more attractive had it been written by her. Yet please allow me to take over for this moment :)
+
+Finding nice food had always been a headache for me. Luckily, Yangyang could always help me out with her acumen -- for the dinner, she picked a restaurant near the University of Sarajevo. We took another ride on the historic tram. With dim light in the cabin, the old train staggered across the city. Only the shining advertisement screen reminded us that we were still in our modern age. When we alighted, the sky had turned into dark indigo. Hastened by our hungry stomaches, we quickly rushed into the restaurants and enjoyed another delicious meal of risottos.
+
+Apart from us, there were two groups of customers inside --- one group of ladies and another of men. Among the ladies, the elderly ones kindly talked and smiled with the others, but a nuanced formality and respectfulness still hovered over. Meanwhile, the men group seemed to be just laid back, filling the small restaurants with their laughs. We couldn't understand their chats, but guessing them provided a nice entertainment for our curious minds.
+
+The night turned chilly as we walked out the restaurant. As a final stop of the day, we sneaked into the university campus and took a short tour. (....todo.....)
+
+(...todo: graffito on the wall...)
+
+
+
 (todo: traces of history; crows and prays; wars; sunshines, clouds, drizzles, storms, floods)
 
 
