@@ -185,13 +185,15 @@ Finding nice food had always been a headache for me. Luckily, Yangyang could alw
 
 Apart from us, there were two groups of customers inside --- one group of ladies and another of men. Among the ladies, the elderly ones kindly talked and smiled with the others, but a nuanced formality and respectfulness still hovered over. Meanwhile, the men group seemed to be just laid back, filling the small restaurants with their laughs. We couldn't understand their chats, but guessing them provided a nice entertainment for our curious minds.
 
-The night turned chilly as we walked out the restaurant. As a final stop of the day, we sneaked into the university campus and took a short tour. (....todo.....)
+The night turned chilly as we walked out the restaurant. As a final stop of the day, we sneaked into the university campus and took a short tour. Compared with historic universities with grandiose churches and fancy decorations in West Europe, University of Sarajevo were more similar to the old campuses of Chinese Universities, with less sense of authority and stateliness but more practicality and familiarity. Maybe as it's already completely dark, no one even noticed us the two excited visitors. We took a nice photo at the main gate together with the university's badge -- which surprisingly had a similar colour and design as the one we were from (but better aesthetics I would argue).
 
-(...todo: graffito on the wall...)
+Can't deny, Sarajevo might not be the most scenic city I've ever been to, but its significance is not comparable by the others for me. In Data Science, a new sample will provide a maximal amount of information if it's orthogonal to existing ones -- the experience in Sarajevo of that kind to me. There was still too much to learn and ponder. Two days are merely a glimpse in the history of a city or a nation, but for me, I will probably never forget -- those two days will have their firm place in the tiny history of myself, in which Yangyang and I enjoyed our first trip aboroad.
 
+Under the history live all the lively individuals. We hear stories from the others, and we become stories of the others. I hope the words I've written down will be a prologue of a story of adventure, courage, struggle, and happiness. A story for us, a story for them.
 
+Let's end this chapter with this slogan I saw on the way back:
 
-(todo: traces of history; crows and prays; wars; sunshines, clouds, drizzles, storms, floods)
+![scraw](/assets/bosnia/sarajevo_scraw.jpg)
 
 
 ## The Train between Sarajevo and Mostar
