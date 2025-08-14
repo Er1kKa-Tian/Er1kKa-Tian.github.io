@@ -200,6 +200,13 @@ Let's end this chapter with this slogan I saw on the way back:
 
 ### The New, The Old
 
+The rain poured all night as we slept. The river Miljacka turned into a ferocious brown dragon, sweeping along everything that unluckily got into it. Under a single umbrella with our luggages, we carefully passed the bridge and managed to got into the Caribou Cafe. There were still hours before our train to Bosnia left, so we decided to have a quick review of the final exam, which would come in a month. With comfy tables and drinks, heavy rain instantly became the best harmony for esoteric econometrics, which made the revision session much enjoyable than in MRB. Lost in metric spaces, I accidentally poured hot tea over my hands. Extremely luckily, Yangyang brought the symptomatic medicine with her -- she was alway there when I'm in the most urgent need. Couldn't appreciate more.
+
+Without notice, the world suddenly became bright -- while the raindrops still falling like dazzling diamonds. As we walked towards the train station, the city finally revealed its sunny side. Under the warm sunshine, Yugoslavia-era buildings and western style skyscrapers proudly stood side by side. Admiring the beauty along the way, we didn't spend much time until getting to the train station.
+
+Though significantly lack maintenance, the grand design of the station recorded its prosperous yesterday. Now, the empty front yard rendered another kind of post-doomsday beauty. There were few travellers so we quickly purchased our tickets. (Somehow the ticket officer charged more than we supposed.)
+
+
 (todo: trains and railway infrastructure)
 
 ???+ inline end "Purchasing Tickets"
