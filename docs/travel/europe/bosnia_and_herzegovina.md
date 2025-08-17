@@ -6,6 +6,11 @@ When Yangyang raised the possibility of visiting Bosnia, "Bosnia and Herzegovina
 
     You know, Western Europe is too expensive and boring (everyone goes there for travelling), and you have to go through a complicated process of visa application. Meanwhile, the only thing you need to prepare for Bosnia is a 40GBP round flight ticket!
 
+<div class="ol-map"
+     data-map="bosnia"
+     data-config="/data/bosnia/config.json">
+</div>
+
 
 ## Intro
 

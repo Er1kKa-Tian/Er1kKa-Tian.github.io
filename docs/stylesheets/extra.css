@@ -1,0 +1,12 @@
+/* Give the map a real height, otherwise it won't be visible */
+.ol-map,
+#map {
+    height: 40vh;
+    /* or 400px */
+    min-height: 300px;
+}
+
+/* Optional: if you keep absolute positioning, make sure a positioned parent exists */
+.md-content {
+    position: relative;
+}

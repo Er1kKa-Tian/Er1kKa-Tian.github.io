@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sarajevo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4131,
+                    43.8563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mostar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8126,
+                    43.3438
+                ]
+            }
+        }
+    ]
+}

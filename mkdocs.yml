@@ -12,6 +12,7 @@ theme:
     - navigation.expand
     - navigation.sections
     - navigation.indexes
+    - navigation.instant
     - navigation.top
     - toc.integrate
     - content.code.annotate
@@ -74,9 +75,19 @@ extra:
     - icon: material/email
       link: mailto:er1kka.tian@outlook.com
 
+extra_css:
+  # Your custom map styles
+  - stylesheets/extra.css
+  # OpenLayers CSS
+  - https://cdn.jsdelivr.net/npm/ol@latest/ol.css
+
+
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/ol@latest/dist/ol.js
+  - javascripts/maps/registry.js   # exposes window.buildMap
+  - javascripts/maps/index.js      # calls window.buildMap             
 
 nav:
   - Home: index.md
