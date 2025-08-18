@@ -211,8 +211,9 @@ Without notice, the world suddenly became bright -- while the raindrops still fa
 
 Though significantly lack maintenance, the grand design of the station recorded its prosperous yesterday. Now, the empty front yard rendered another kind of post-doomsday beauty. There were few travellers so we quickly purchased our tickets. (Somehow the ticket officer charged more than we supposed.)
 
+Locating the correct train was not an easy task. We did not see any designated platform number or train number, and there seemed to be no indication of destinations on the train. Yet that wouldn't be a problem for us as it's already our third day there. After some enquiries (mostly in body languages), we successfully got on our train.
 
-(todo: trains and railway infrastructure)
+Compared with the clear disrepairs of platforms and tracks, the passenger coaches made by Talgo (a Spanish producer) were modern and quite well-maintained. In terms of interior decorations and layouts, they were even quite luxury. The 1st and 2nd classes, with 2+2 and 2+1 seating plans, were sold at the same price. Since there was no designated seat system and only a few people onboard, we can choose to seat whereever we'd like to. Settled down on two comfortable seats by a large window, we started our journey towards Mostar before the sunset.
 
 ???+ inline end "Purchasing Tickets"
 
@@ -220,8 +221,16 @@ Though significantly lack maintenance, the grand design of the station recorded 
 
 ### Across the Mountains
 
-(todo: scenery)
 
+The train crossed Sarajevo suburb to the west, passing the airport before entering the mountains. We kept climbing upwards after leaving the Blažuj station. Winding tracks along the slope limited the train speed and local connectivity, but meanwhile offered stunning views along the way. Yangyang and I couldn't stop taking photos -- from tranquil countrysides, historical villages, to high-rising snow mountains. Occasionally, the train stopped at stations with shorter than 10m "platforms", which reminded me of those commuting slow trains in Southwest China I travelled on a few years ago (though people didn't seem to bring fresh vegetables and livestocks onboard).
+
+The highlight of this train journey was climbing over mountain pass between Grad and Konjic. The train climbed steeply from 500m to 800m through a sequence of horseshoe curves and tunnels, and then descended rapidly before approaching the historical town of Konjic with only 300m elevation. Under the beautiful afterglow, this railway heritage dated back to Austro-Hungarian Empire greeted us with a picturesque panorama of the vally.
+
+After the excitement, I fell asleep for a while we descended further along the Neretva River all the way down to Mostar. The sky was completely dark when we finally arrived. Mostar station was really wield in design -- like a super low-cost version of small modern train station in China -- but at least it had every feature it needed for passenger services.
+
+We walked for a while before arriving at our Airbnb, which was a top-floor 3-bedroom flat operated by a local couple. The hosts were nice and cordial. 
+
+(todo: night)
 
 ## Mostar
 
