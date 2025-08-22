@@ -226,17 +226,22 @@ The train crossed Sarajevo suburb to the west, passing the airport before enteri
 
 The highlight of this train journey was climbing over mountain pass between Grad and Konjic. The train climbed steeply from 500m to 800m through a sequence of horseshoe curves and tunnels, and then descended rapidly before approaching the historical town of Konjic with only 300m elevation. Under the beautiful afterglow, this railway heritage dated back to Austro-Hungarian Empire greeted us with a picturesque panorama of the vally.
 
-After the excitement, I fell asleep for a while we descended further along the Neretva River all the way down to Mostar. The sky was completely dark when we finally arrived. Mostar station was really wield in design -- like a super low-cost version of small modern train station in China -- but at least it had every feature it needed for passenger services.
-
-We walked for a while before arriving at our Airbnb, which was a top-floor 3-bedroom flat operated by a local couple. The hosts were nice and cordial. 
-
-(todo: night)
 
 ## Mostar
 
+### Town of Veal
+
+After the excitement, I fell asleep for a while we descended further along the Neretva River all the way down to Mostar. The sky was completely dark when we finally arrived. Mostar station was really wield in design -- like a super low-cost version of small modern train station in China -- but at least it had every feature it needed for passenger services.
+
+Located in a valley, Mostar was covered with light fog (or haze?) when we arrived. We walked for a while before arriving at our Airbnb, which was a top-floor 3-bedroom flat operated by a local couple. The hosts were nice and cordial. They showed us around and introduced the facilities. This giant flat was too much a luxury for the two of us -- I think this "party house" could easily fit in 10 occupants. Apart from some pungent smell from freshly resealed washroom, everything was perfect. There were even two balconies -- one with a panorama the historical old town and another one facing the mountain.
+
+With agog stomachs and pro advices from our hosts, we decided to go for a food hunt in the night. Crossing the serene allies and the centuried old bridge, we chose a popular restaurant with a nice view of Neretva River. Its name Hindin Han -- I still have no clue about the meaning -- has become a place that I will never forget. The food there was so delicious that I would call it the "Jerusalem of Food", a haven that wandering taste buds dream for every night in the UK.
+
+In our first visit, we ordered chicken with mushroom sauce and some grills. Let along the cheap price (compared with UK/EU/US), the mushroom sauce was the best within the genre, so was the chicken. However, the most extraordinary part had to be the local speciality -- veal -- a special kind of steak that's super tender that I cannot properly describe its exact taste. Together with fresh vegetables and chips, we enjoyed another fulfilling night in Bosnia.
+
 ### Bad Weather, Good Food, Good Mood
 
-(todo: flood, food, wondering around)
+(todo: flood, food, wandering around)
 
 
 ### People
