@@ -15,7 +15,7 @@ I have interests in Heterodox Economics, Transportation, Computer Science, Data 
 
 I used to play games a lot, including [Battlefield 1](https://battlefieldtracker.com/bf1/profile/origin/Er1kKa/overview), [Battlefield 5](https://battlefieldtracker.com/bfv/profile/origin/Er1kka/overview), Broken Arrow, Transport Fever, and MSFS.
 
-I hate the finance sector :)
+I hate the (extractive) finance sector :)
 
 ## Contacts
 
@@ -27,4 +27,6 @@ I hate the finance sector :)
 
 
 - My notes for UCL BSc Economics [here](resources/ucl_notes.md)
+- My notes for Oxford MPhil Economics [here](resources/ox_notes.md)
 - A page dedicated to my girlfriend Yangyang [here](personal/yangyang/yangyang_index.md) :heart:
+    - Our Bosnia trip [here](travel/europe/bosnia_and_herzegovina.md)
