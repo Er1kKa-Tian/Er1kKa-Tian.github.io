@@ -50,10 +50,10 @@ Nevertheless, at least the bus was on time, and we went through all the procedur
 
 ???+ info inline end "Mountains"
     
-    **Mountains** ![Mountains](/assets/bosnia/wizz_air.jpg){ width="400"}
+    **Mountains** ![Mountains](/assets/bosnia/wizz_air.jpg){ width="400 loading=lazy }
     { .card }
     
-    **Sarajevo Airport** ![Sarajevo Airport](/assets/bosnia/sarajevo_airport.jpg){ width="400"} Walk yourself from the aircraft to the border control.
+    **Sarajevo Airport** ![Sarajevo Airport](/assets/bosnia/sarajevo_airport.jpg){ width="400" loading=lazy } Walk yourself from the aircraft to the border control.
     { .card }
 
 The flight was smooth and we got a beautiful glimpse of snow-capped mountains when crossing Switzerland.
@@ -65,7 +65,7 @@ As there's no convenient public transportation going from Sarajevo airport to th
 
     ???+ inline end "Official Fares"
 
-        ![Official Fares](/assets/bosnia/sarajevo_taxi.jpg){ width="300"}
+        ![Official Fares](/assets/bosnia/sarajevo_taxi.jpg){ width="300" loading=lazy }
 
     For locals, the taxi fare from the airport to city centre is typically 20 KM/BAM. However, taxi drivers will charge more than 40 KM/BAM for tourists. BUT THAT WON'T BE THE CASE FOR US!
     
@@ -89,13 +89,13 @@ We first located the building --- which was fairly easy since it's named using t
 
 ???+ info inline end "Our Airbnb at Sarajevo"
 
-    **Seats for Two** ![room](/assets/bosnia/sarajevo_airbnb_1.jpg){ width="200"} Table perfect for the two of us.
+    **Seats for Two** ![room](/assets/bosnia/sarajevo_airbnb_1.jpg){ width="200" loading=lazy } Table perfect for the two of us.
     { .card }
 
-    **Bedroom** ![room](/assets/bosnia/sarajevo_airbnb_2.jpg){ width="200" } Warm feeling.
+    **Bedroom** ![room](/assets/bosnia/sarajevo_airbnb_2.jpg){ width="200" loading=lazy } Warm feeling.
     { .card }
 
-    **View outside the Window** ![room](/assets/bosnia/sarajevo_airbnb_3.jpg){ width="200"} Lads played football all day long.
+    **View outside the Window** ![room](/assets/bosnia/sarajevo_airbnb_3.jpg){ width="200" loading=lazy } Lads played football all day long.
     { .card }
 
 That room made me feel nostalgic the moment I stepped in. It's hard to precisely describe why, but everything was so familiar as if I had been there before. There were some lads playing football outside. Accompanied by that sound, under slight dizziness caused by low fever, I got a small nap on the sofa, feeling like a normal afternoon 15 years ago in the old apartment where my childhood remains.
@@ -118,36 +118,36 @@ Anyway, that was the first day. Time for a good night of sleep.
 
     <div class="grid" markdown>
 
-    **Armored Train** ![armored train](/assets/bosnia/sarajevo_armored_train.jpg){ width="300" } An armored train located in the "Military Theme Playground" next to the famout Tito Cafe. We did see kids playing there during our visits.
+    **Armored Train** ![armored train](/assets/bosnia/sarajevo_armored_train.jpg){ width="300" loading=lazy } An armored train located in the "Military Theme Playground" next to the famout Tito Cafe. We did see kids playing there during our visits.
     { .card }
 
-    **Field of Flags** ![field of flags](/assets/bosnia/sarajevo_field_of_flags.jpg){ width="300" } "The flags symbolize the struggles, triumphs, and transformations that have shaped the country."
+    **Field of Flags** ![field of flags](/assets/bosnia/sarajevo_field_of_flags.jpg){ width="300" loading=lazy } "The flags symbolize the struggles, triumphs, and transformations that have shaped the country."
     { .card }
 
-    **Buildings in Sarajevo** ![building](/assets/bosnia/sarajevo_building.jpg){ width="200" } You can see shell craters everywhere on the buildings.
+    **Buildings in Sarajevo** ![building](/assets/bosnia/sarajevo_building.jpg){ width="200" loading=lazy } You can see shell craters everywhere on the buildings.
     { .card }
 
-    **ICAR Canned Beef Monument** ![beefcan](/assets/bosnia/sarajevo_beefcan.jpg){ width="200" } A memorial to the food aid delivered during the Siege of Sarajevo.
+    **ICAR Canned Beef Monument** ![beefcan](/assets/bosnia/sarajevo_beefcan.jpg){ width="200" loading=lazy } A memorial to the food aid delivered during the Siege of Sarajevo.
     { .card }
 
 ???+ info "City Centre, Parliament, and the Blue Hours"
 
-    ![scc](/assets/bosnia/sarajevo_centre.jpg){ width="300" }
-    ![parliament](/assets/bosnia/sarajevo_parliament.jpg){ width="300" }
-    ![bluehours](/assets/bosnia/sarajevo_blue_hours.jpg){ width="300" }
+    ![scc](/assets/bosnia/sarajevo_centre.jpg){ width="300" loading=lazy }
+    ![parliament](/assets/bosnia/sarajevo_parliament.jpg){ width="300" loading=lazy }
+    ![bluehours](/assets/bosnia/sarajevo_blue_hours.jpg){ width="300" loading=lazy }
     
 
 ### Locals and Visitors
 
 ???+ info inline "Paper Moon"
 
-    ![papermoon](/assets/bosnia/sarajevo_papermoon.jpg){ width="300" }
+    ![papermoon](/assets/bosnia/sarajevo_papermoon.jpg){ width="300" loading=lazy }
 
 The weather was still cloudy on our second day. Somehow we skipped for the breakfast and opted for a hearty lunch. With extreme hunger and excitement from escaping British food, we ordered a steak, chicken pasta, and prawn salad from a nearby restaurant named "Paper Moon". Though located in an old apartment building, the restaurant itself was well decorated. I have to be honest that the price was sure not cheap (in the Bosnian sense), but the exceptional taste and amount instantly proved its value. As we enjoying our gourmet dishes, some shiny cars that did not fit in the street view parked outside, and people wearing suits seated down around another table. They seemed to be frequent visitors here. We couldn't understand what they were chatting, but probably not about the delicious food I suppose.
 
 ???+ info inline end "Yangyang and the Cats"
 
-    ![cats](/assets/bosnia/sarajevo_cats.jpg){ width="200" }
+    ![cats](/assets/bosnia/sarajevo_cats.jpg){ width="200" loading=lazy }
 
 On the way home, we encountered some unexpected locals -- cats. The fluffy guys probably had 7-day weekends per week, as they just kept lying on a sofa, not even reacting to our approach. Another surprise is that we accidentally walked into a local market hidden behind buildings where a few elders were selling fruits and vegetables. With Bosnian phrases learned from 30min Youtube videos a mixture with Russian words, I somehow successfully bought a couple of apples and bananas, which offered me a feeling of competency that I never had on a foreign language before. Of course, I soon had to re-evaluate my mastery in Bosnian as I tried to purchase a SIM card and struggled to explain when the saleslady seemed to be doubting my cash as counterfeit.
 
@@ -157,8 +157,8 @@ We finally saw other tourists while walking around the Latin Bridge --- but only
 
 ???+ info
 
-    ![market](/assets/bosnia/sarajevo_market.jpg){ width="300" }
-    ![latinbridge](/assets/bosnia/sarajevo_latin_bridge.jpg){ width="300" }
+    ![market](/assets/bosnia/sarajevo_market.jpg){ width="300" loading=lazy }
+    ![latinbridge](/assets/bosnia/sarajevo_latin_bridge.jpg){ width="300" loading=lazy }
 
 
 
@@ -198,7 +198,7 @@ Under the history live all the lively individuals. We hear stories from the othe
 
 Let's end this chapter with this slogan I saw on the way back:
 
-![scraw](/assets/bosnia/sarajevo_scraw.jpg)
+![scraw](/assets/bosnia/sarajevo_scraw.jpg){ loading=lazy }
 
 
 ## The Train between Sarajevo and Mostar
