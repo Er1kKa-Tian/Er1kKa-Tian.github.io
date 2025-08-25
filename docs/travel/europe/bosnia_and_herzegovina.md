@@ -241,6 +241,13 @@ In our first visit, we ordered chicken with mushroom sauce and some grills. Let 
 
 ### Bad Weather, Good Food, Good Mood
 
+Our second day in Mostar, again, started with drizzle outside the window. Taking a view on the balcony, the old town was enveloped in mist and clouds. If the roof were in plain colour instead of crimson, I would have felt like staying in a historical town in Huangshan. We also got a new friend, caught in a water bottle, in the morning -- a Bosnian grasshopper. Its giant size reminded me of its foreign relatives in Anhui, which also surprised me with their huge size. Considering both places have great food, I'm sure that we can use some intricated econometrics tools to reveal the causal story behind, and show how feeding grasshoppers well will improve food quality, hence improving welfare. This is also the first time that I got to know that "grasshopper" is the same as "locust". Maybe the former sounds more positive, but the second will be more professional if our article *Why Foods Fail? Evidence from Inclusive Insects* is seeking a place in the *Journal of Political Eating*.
+
+Jokes aside, as we went out to explore the town, the rain showed no trace of stopping, and there were few people on the street. Fierce torrents were even wilder than in Sarajevo, smashing plants and trees. The flood crawled above the riverbank into restaurants, turning them into Venice (or maybe Titanic) style. However, we also spotted brave warriors against the angry Alpheus -- a crowd of ducks. Rather than a struggle, the weather was a pure blessing for them: floating leaves and foods continually drifted from upstream, offering the ducks a wonderful buffet. I'm sure this would be another myths among the ducks for the coming generations -- a story of the grace of gods' presence.
+
+On the other hand, we did not envy the ducks as we were also enjoying the best food in our second visit to Hindin Han. 
+
+
 (todo: flood, food, wandering around)
 
 
