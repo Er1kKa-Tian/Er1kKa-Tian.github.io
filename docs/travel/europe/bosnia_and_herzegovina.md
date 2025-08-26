@@ -48,7 +48,7 @@ The first stop is Oxford Gloucester Bus Station where we took the National Expre
 
 Nevertheless, at least the bus was on time, and we went through all the procedures at Gatwick smoothly. By 07:45, we already seated on our flight to Sarajevo.
 
-???+ info inline end "Mountains"
+???+ photo inline end "Mountains"
     
     **Mountains** ![Mountains](/assets/bosnia/wizz_air.jpg){ width="400 loading=lazy }
     { .card }
@@ -87,7 +87,7 @@ We first located the building --- which was fairly easy since it's named using t
 
 ### WEEKENDS ARE WEEKENDS!
 
-???+ info inline end "Our Airbnb at Sarajevo"
+???+ photo inline end "Our Airbnb at Sarajevo"
 
     **Seats for Two** ![room](/assets/bosnia/sarajevo_airbnb_1.jpg){ width="200" loading=lazy } Table perfect for the two of us.
     { .card }
@@ -114,7 +114,7 @@ We picked another way home, along which located small monuments, parks, and low 
 
 Anyway, that was the first day. Time for a good night of sleep.
 
-???+ info "History Traces"
+???+ photo "History Traces"
 
     <div class="grid" markdown>
 
@@ -130,7 +130,7 @@ Anyway, that was the first day. Time for a good night of sleep.
     **ICAR Canned Beef Monument** ![beefcan](/assets/bosnia/sarajevo_beefcan.jpg){ width="200" loading=lazy } A memorial to the food aid delivered during the Siege of Sarajevo.
     { .card }
 
-???+ info "City Centre, Parliament, and the Blue Hours"
+???+ photo "City Centre, Parliament, and the Blue Hours"
 
     ![scc](/assets/bosnia/sarajevo_centre.jpg){ width="300" loading=lazy }
     ![parliament](/assets/bosnia/sarajevo_parliament.jpg){ width="300" loading=lazy }
@@ -139,13 +139,13 @@ Anyway, that was the first day. Time for a good night of sleep.
 
 ### Locals and Visitors
 
-???+ info inline "Paper Moon"
+???+ photo inline "Paper Moon"
 
     ![papermoon](/assets/bosnia/sarajevo_papermoon.jpg){ width="300" loading=lazy }
 
 The weather was still cloudy on our second day. Somehow we skipped for the breakfast and opted for a hearty lunch. With extreme hunger and excitement from escaping British food, we ordered a steak, chicken pasta, and prawn salad from a nearby restaurant named "Paper Moon". Though located in an old apartment building, the restaurant itself was well decorated. I have to be honest that the price was sure not cheap (in the Bosnian sense), but the exceptional taste and amount instantly proved its value. As we enjoying our gourmet dishes, some shiny cars that did not fit in the street view parked outside, and people wearing suits seated down around another table. They seemed to be frequent visitors here. We couldn't understand what they were chatting, but probably not about the delicious food I suppose.
 
-???+ info inline end "Yangyang and the Cats"
+???+ photo inline end "Yangyang and the Cats"
 
     ![cats](/assets/bosnia/sarajevo_cats.jpg){ width="200" loading=lazy }
 
@@ -155,10 +155,11 @@ Under the long-awaited sunshine, we decided to have another trip to see the land
 
 We finally saw other tourists while walking around the Latin Bridge --- but only a few, not even comparable to the most deserted season in Nanjing, which again surprised me, considering how well-know is the assassination. Located north-eastern to the Latin Bridge was the Baščaršija, a bustling market with 600 years of history. Just as typical tourist attractions elsewhere, dazzling gadgets, blankets, drawings appeared everywhere with peddlers and shops all around. There seemed to be a huge tourist group from China with familiar Shanghai accents. Once I always wondered how merchants on the Silk Road made deals without understanding exotic languages along the way, a question answered lively by those tourists. Probably, "communication problem" is only a problem when one side want to shun away; when both sides were positive to getting the business done, you can answer Bosnian with Shanghainess.
 
-???+ info
+???+ photo
 
     ![market](/assets/bosnia/sarajevo_market.jpg){ width="300" loading=lazy }
     ![latinbridge](/assets/bosnia/sarajevo_latin_bridge.jpg){ width="300" loading=lazy }
+    ![dawn](/assets/bosnia/sarajevo_dawn.jpg){ width="300" loading=lazy }
 
 
 
@@ -192,6 +193,12 @@ Apart from us, there were two groups of customers inside --- one group of ladies
 
 The night turned chilly as we walked out the restaurant. As a final stop of the day, we sneaked into the university campus and took a short tour. Compared with historic universities with grandiose churches and fancy decorations in West Europe, University of Sarajevo were more similar to the old campuses of Chinese Universities, with less sense of authority and stateliness but more practicality and familiarity. Maybe as it's already completely dark, no one even noticed us the two excited visitors. We took a nice photo at the main gate together with the university's badge -- which surprisingly had a similar colour and design as the one we were from (but better aesthetics I would argue).
 
+???+ photo
+
+    ![tram](/assets/bosnia/sarajevo_tram.jpg){ width="300" loading=lazy }
+    ![restaurant](/assets/bosnia/sarajevo_restaurant.jpg){ width="300" loading=lazy }
+    ![university](/assets/bosnia/sarajevo_university.jpg){ width="300" loading=lazy }
+
 Can't deny, Sarajevo might not be the most scenic city I've ever been to, but its significance is not comparable by the others for me. In Data Science, a new sample will provide a maximal amount of information if it's orthogonal to existing ones -- the experience in Sarajevo of that kind to me. There was still too much to learn and ponder. Two days are merely a glimpse in the history of a city or a nation, but for me, I will probably never forget -- those two days will have their firm place in the tiny history of myself, in which Yangyang and I enjoyed our first trip aboroad.
 
 Under the history live all the lively individuals. We hear stories from the others, and we become stories of the others. I hope the words I've written down will be a prologue of a story of adventure, courage, struggle, and happiness. A story for us, a story for them.
@@ -205,9 +212,20 @@ Let's end this chapter with this slogan I saw on the way back:
 
 ### The New, The Old
 
+???+ inline end photo
+
+    ![old building](/assets/bosnia/sarajevo_building_2.jpg){ width="180" loading=lazy }
+    
+
 The rain poured all night as we slept. The river Miljacka turned into a ferocious brown dragon, sweeping along everything that unluckily got into it. Under a single umbrella with our luggages, we carefully passed the bridge and managed to got into the Caribou Cafe. There were still hours before our train to Bosnia left, so we decided to have a quick review of the final exam, which would come in a month. With comfy tables and drinks, heavy rain instantly became the best harmony for esoteric econometrics, which made the revision session much enjoyable than in MRB. Lost in metric spaces, I accidentally poured hot tea over my hands. Extremely luckily, Yangyang brought the symptomatic medicine with her -- she was alway there when I'm in the most urgent need. Couldn't appreciate more.
 
 Without notice, the world suddenly became bright -- while the raindrops still falling like dazzling diamonds. As we walked towards the train station, the city finally revealed its sunny side. Under the warm sunshine, Yugoslavia-era buildings and western style skyscrapers proudly stood side by side. Admiring the beauty along the way, we didn't spend much time until getting to the train station.
+
+???+ photo
+
+    ![caribo cafe](/assets/bosnia/sarajevo_cafe.jpg){ width="300" loading=lazy }
+    ![sunshine](/assets/bosnia/sarajevo_city_sun.jpg){ width="300" loading=lazy }
+    ![station](/assets/bosnia/sarajevo_station.jpg){ width="300" loading=lazy }
 
 Though significantly lack maintenance, the grand design of the station recorded its prosperous yesterday. Now, the empty front yard rendered another kind of post-doomsday beauty. There were few travellers so we quickly purchased our tickets. (Somehow the ticket officer charged more than we supposed.)
 
@@ -215,9 +233,18 @@ Locating the correct train was not an easy task. We did not see any designated p
 
 Compared with the clear disrepairs of platforms and tracks, the passenger coaches made by Talgo (a Spanish producer) were modern and quite well-maintained. In terms of interior decorations and layouts, they were even quite luxury. The 1st and 2nd classes, with 2+2 and 2+1 seating plans, were sold at the same price. Since there was no designated seat system and only a few people onboard, we can choose to seat whereever we'd like to. Settled down on two comfortable seats by a large window, we started our journey towards Mostar before the sunset.
 
-???+ inline end "Purchasing Tickets"
+???+ photo
 
-    (todo)
+    ![ticket hall](/assets/bosnia/sarajevo_station_interior.jpg){ width="169" loading=lazy }
+    ![sunshine](/assets/bosnia/sarajevo_station_2.jpg){ width="300" loading=lazy }
+    ![train](/assets/bosnia/train_back.jpg){ width="169" loading=lazy }
+    ![train](/assets/bosnia/train_us.jpg){ width="300" loading=lazy }
+    ![train](/assets/bosnia/train_first.jpg){ width="300" loading=lazy }
+    ![train](/assets/bosnia/train_second.jpg){ width="300" loading=lazy }
+    ![train](/assets/bosnia/train_buffet.jpg){ width="300" loading=lazy }
+    ![train](/assets/bosnia/train_countryside.jpg){ width="300" loading=lazy }
+    ![train](/assets/bosnia/train_spin.jpg){ width="169" loading=lazy }
+
 
 ### Across the Mountains
 
@@ -226,6 +253,9 @@ The train crossed Sarajevo suburb to the west, passing the airport before enteri
 
 The highlight of this train journey was climbing over mountain pass between Grad and Konjic. The train climbed steeply from 500m to 800m through a sequence of horseshoe curves and tunnels, and then descended rapidly before approaching the historical town of Konjic with only 300m elevation. Under the beautiful afterglow, this railway heritage dated back to Austro-Hungarian Empire greeted us with a picturesque panorama of the vally.
 
+???+ info "Purchasing Tickets"
+
+    (todo)
 
 ## Mostar
 
@@ -233,11 +263,16 @@ The highlight of this train journey was climbing over mountain pass between Grad
 
 After the excitement, I fell asleep for a while we descended further along the Neretva River all the way down to Mostar. The sky was completely dark when we finally arrived. Mostar station was really wield in design -- like a super low-cost version of small modern train station in China -- but at least it had every feature it needed for passenger services.
 
+???+ inline end photo
+
+    ![hindin han 1](/assets/bosnia/mostar_hdh_1.jpg){ width="169" loading=lazy }
+
 Located in a valley, Mostar was covered with light fog (or haze?) when we arrived. We walked for a while before arriving at our Airbnb, which was a top-floor 3-bedroom flat operated by a local couple. The hosts were nice and cordial. They showed us around and introduced the facilities. This giant flat was too much a luxury for the two of us -- I think this "party house" could easily fit in 10 occupants. Apart from some pungent smell from freshly resealed washroom, everything was perfect. There were even two balconies -- one with a panorama the historical old town and another one facing the mountain.
 
 With agog stomachs and pro advices from our hosts, we decided to go for a food hunt in the night. Crossing the serene allies and the centuried old bridge, we chose a popular restaurant with a nice view of Neretva River. Its name Hindin Han -- I still have no clue about the meaning -- has become a place that I will never forget. The food there was so delicious that I would call it the "Jerusalem of Food", a haven that wandering taste buds dream for every night in the UK.
 
 In our first visit, we ordered chicken with mushroom sauce and some grills. Let along the cheap price (compared with UK/EU/US), the mushroom sauce was the best within the genre, so was the chicken. However, the most extraordinary part had to be the local speciality -- veal -- a special kind of steak that's super tender that I cannot properly describe its exact taste. Together with fresh vegetables and chips, we enjoyed another fulfilling night in Bosnia.
+
 
 ### Bad Weather, Good Food, Good Mood
 
@@ -246,6 +281,14 @@ Our second day in Mostar, again, started with drizzle outside the window. Taking
 Jokes aside, as we went out to explore the town, the rain showed no trace of stopping, and there were few people on the street. Fierce torrents were even wilder than in Sarajevo, smashing plants and trees. The flood crawled above the riverbank into restaurants, turning them into Venice (or maybe Titanic) style. However, we also spotted brave warriors against the angry Alpheus -- a crowd of ducks. Rather than a struggle, the weather was a pure blessing for them: floating leaves and foods continually drifted from upstream, offering the ducks a wonderful buffet. I'm sure this would be another myths among the ducks for the coming generations -- a story of the grace of gods' presence.
 
 On the other hand, we did not envy the ducks as we were also enjoying the best food in our second visit to Hindin Han. 
+
+
+???+ photo
+
+    ![hdh2](/assets/bosnia/mostar_hdh_2.jpg){ width="169" loading=lazy }
+    ![restaurant](/assets/bosnia/mostar_grasshopper.jpg){ width="169" loading=lazy }
+    ![university](/assets/bosnia/mostar_flood.jpg){ width="169" loading=lazy }
+    ![university](/assets/bosnia/mostar_us.jpg){ width="300" loading=lazy }
 
 
 (todo: flood, food, wandering around)
