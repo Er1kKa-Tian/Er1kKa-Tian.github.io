@@ -278,9 +278,19 @@ In our first visit, we ordered chicken with mushroom sauce and some grills. Let 
 
 Our second day in Mostar, again, started with drizzle outside the window. Taking a view on the balcony, the old town was enveloped in mist and clouds. If the roof were in plain colour instead of crimson, I would have felt like staying in a historical town in Huangshan. We also got a new friend, caught in a water bottle, in the morning -- a Bosnian grasshopper. Its giant size reminded me of its foreign relatives in Anhui, which also surprised me with their huge size. Considering both places have great food, I'm sure that we can use some intricated econometrics tools to reveal the causal story behind, and show how feeding grasshoppers well will improve food quality, hence improving welfare. This is also the first time that I got to know that "grasshopper" is the same as "locust". Maybe the former sounds more positive, but the second will be more professional if our article *Why Foods Fail? Evidence from Inclusive Insects* is seeking a place in the *Journal of Political Eating*.
 
+???+ inline end example "How We Got Our New Friend"
+
+    You might be wondering how we got this grasshopper --- catching a grasshopper is not something you will do as the first task in the morning right? Probably yes, unless it's on your bed! During the night, I've already heard some noise, but I did not pay much attension as I was too tired. Yet in the early morning, I heard a loud scream fron Yangyang: she said that some unidentified creature was on her leg! I got up and initially saw nothing, but Yangyang was so afraid about the possibility of it being a PzKpfw VIII. Thus we searched around, and eventually found our new friend.
+
 Jokes aside, as we went out to explore the town, the rain showed no trace of stopping, and there were few people on the street. Fierce torrents were even wilder than in Sarajevo, smashing plants and trees. The flood crawled above the riverbank into restaurants, turning them into Venice (or maybe Titanic) style. However, we also spotted brave warriors against the angry Alpheus -- a crowd of ducks. Rather than a struggle, the weather was a pure blessing for them: floating leaves and foods continually drifted from upstream, offering the ducks a wonderful buffet. I'm sure this would be another myths among the ducks for the coming generations -- a story of the grace of gods' presence.
 
-On the other hand, we did not envy the ducks as we were also enjoying the best food in our second visit to Hindin Han. 
+On the other hand, we did not envy the ducks as we were also enjoying the best food in our second visit to Hindin Han. As a breakfast, we tried the traditional Bosnian coffee and the soups. The chicken soup, with carrots, herbs, and noodles inside, was so delicious that I doubt it's stolen from my grandma's kitchen. Accompanied by the "dynamic" Balkan music circulated in the riverside balcony, we started our first morning in Mostar.
+
+However, only eating in restaurants would never be enough to fully appreciate the food culture of a place, to eat like Bosnians (but with Chinese style), we decided to buy some food from the local supermarket and cook by ourselves. After being welcomed by a cat at the entrance, we entered the supermarket and started to hunt for inputs of our food production function. After a bit struggle and teamwork, Yangyang and I successfully concurred the Bosian weighting and vending machine, and got some noodles, meat, vegetables, and fruits. Sausages seemed to be a popular choice among the locals. Their tastes have already surprised us at Hindin Han, so we bought some frozen ones to see the taste difference between paid labour and self employment. We also purchased some fish fingers to have a fallback option in case our culinary skills turned out to be incompatible with Bosnian sausage. Yet in the end, despite some trials and errors in cooking, both of them ended up taste great.
+
+After a short snap in the afternoon, it's finally the time for revision --- this is definitely one of the pros of travelling to a relatively cheap destination: you can spend half a day just studying or reading in a random cafe without feeling regretful of the money spent. We chose another branch of Caribou Cafe located in the northern part of the town, where we were treated with great coffee and tea. As a bonus, the barista lady, whom we guessed to be a student at UWC, even showed us a private room with a large table for study. We also visited an adjacent accessory store for notebooks, where we met a super chatterbox cashier --- could be the shop owner as he seemed to be the only employee there. We believed that he was so talkative that it's a loss of he did not campaign to the president (actually one of the presidents as there were three of them in Bosnia). Anyway, thanks to the quiet and comfortable environment, as well as the high quality notebook we got, Yangyang and I spent a productive afternoon reviewing for our final exams, which I though might be the most "painless" revision session in our cohort, considering our colleagues were still trapped in the cursed libraries or accommodations in Oxford. 
+
+It was already 7pm as our revision ended for that day. Half-a-day hard work made us wanna to try something different for our dinner, so we went to another restaurant with top reviews and recommended by our host --- the Urban Taste of the Orient. This restaurant turned out to be significantly more expansive than Hindin Han. Though the taste was still supreme --- actually we would rate it to be top of the tier if we were in the UK, we still got a bit disappointed compared with Hindin Han, also because we couldn't enjoy its highlight, view of the old bridge and river, due to chilly weather.
 
 
 ???+ photo
@@ -290,14 +300,10 @@ On the other hand, we did not envy the ducks as we were also enjoying the best f
     ![university](/assets/bosnia/mostar_flood.jpg){ width="169" loading=lazy }
     ![university](/assets/bosnia/mostar_us.jpg){ width="300" loading=lazy }
 
-
-(todo: flood, food, wandering around)
-
-
-### People
+### Life, , Coffee, Econometrics, and My Loved One
 
 
-### Coffee, Econometrics, and My Loved One
+Our lives were quite calm but still exciting on the following two days in Mostar. We more or less got used to the local lifestyle --- as if we were visiting students there. There were some chocolates with "UWC Mostar" printed on their covers, so we supposed our hosts might have some connections with it. We walked around and explored the serene town in the morning --- the weather expelled nearly tourists and revealed the most authentic flavour Mostar. Then, we got back home and cooked our own food. More Chinese elements were added in the second and third day: though no one had probably thought about cooking tomato and egg stir fry in a Bosnian airbnb, it did happen. Following a snap was a revision session until the night, when we went to Hindin Han for nice treats, and then called it a day.
 
 (todo: coffee, revision, yangyang)
 
