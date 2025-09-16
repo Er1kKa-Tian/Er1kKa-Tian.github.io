@@ -118,6 +118,7 @@ nav:
       - Europe:
         - Bosnia and Herzegovina: travel/europe/bosnia_and_herzegovina.md
   - Personal:
+    - Overview: personal/personal_index.md
     - with Yangyang: personal/yangyang/yangyang_index.md
     - Friends: personal/friends.md
   - Misc:
