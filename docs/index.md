@@ -9,7 +9,7 @@
 
 I'm a graduate student from [St Hilda's College, University of Oxford](https://www.st-hildas.ox.ac.uk/), currently enrolled in the [MPhil in Economics](https://www.economics.ox.ac.uk/mphil-in-economics) programme. Previously, I got my [BSc Economics](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/economics-bsc-econ) from UCL with [Eleanora Allen Prize](https://www.ucl.ac.uk/economics/study/undergraduate/undergraduate-economics-prizes-and-winners).
 
-I work as an intern now at [Asian Transport Observatory](https://asiantransportobservatory.org/), previously at [UCL Institute for Global Prosperity](https://www.ucl.ac.uk/bartlett/global-prosperity).
+I was once an intern at [Asian Transport Observatory](https://asiantransportobservatory.org/) and [UCL Institute for Global Prosperity](https://www.ucl.ac.uk/bartlett/global-prosperity).
 
 I have interests in Heterodox Economics, Transportation, Computer Science, Data Science, Photography, Music, Table Tennis, Swimming, Travelling, and Anime.
 

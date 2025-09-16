@@ -100,8 +100,10 @@ nav:
       - Overview: academic/academic_index.md
   - Projects:
       - Overview: projects/project_index.md
-      - ATO Priority Project Pipeline Database: projects/ato_pipeline.md
-      - ATO Aviation Country Profile: projects/ato_aviation.md
+      - Asian Transport Observatory:
+          - Priority Project Pipeline Database: projects/ato_pipeline.md
+          - Aviation Country Profile: projects/ato_aviation.md
+          - Aviation Country Profile Sample: projects/ato_aviation_sample.md
   - How I Learned Everything?: 
       - Main page: learning/learning_index.md
       - Methodology:  learning/methodology.md
