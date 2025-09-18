@@ -104,12 +104,14 @@ nav:
           - Priority Project Pipeline Database: projects/ato_pipeline.md
           - Aviation Country Profile: projects/ato_aviation.md
           - Aviation Country Profile Sample: projects/ato_aviation_sample.md
-  - How I Learned Everything?: 
+  - My Learning Stories:
       - Main page: learning/learning_index.md
+      - Summary: learning/learning_summary.md
       - Methodology:  learning/methodology.md
+      - UCL BSc Economics:
+          - Overview: learning/ucl_bsc_economics.md
       - Oxford MPhil Economics:
           - Overview: learning/ox_mphil_econ/ox_mphil_econ_index.md
-      - Progress Tracker: learning/tracker.md
   - Resources:
       - UCL BSc Econ Notes: resources/ucl_notes.md
       - Oxford MPhil Econ Notes: resources/ox_notes.md
