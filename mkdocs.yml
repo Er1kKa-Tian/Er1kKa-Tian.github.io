@@ -1,4 +1,5 @@
 site_name: Xiaotian Tian's Secret Garden
+site_description: Personal website of Xiaotian Tian
 site_url: https://er1kka-tian.github.io/
 theme:
   name: material
