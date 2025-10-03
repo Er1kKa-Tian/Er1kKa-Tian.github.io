@@ -3,11 +3,11 @@
 ## Asia
 
 - China
-- Singapore 2014, 2025.09
+- Singapore 2014, [2025.09](asia/singapore.md)
 
 ## Africa
 
-- Egypt 2025.09
+- [Egypt 2025.09](africa/egypt.md)
 
 ## America
 
@@ -27,4 +27,4 @@
 - Poland
 - Czech
 - Hungary
-- [Bosnia and Herzegovina 2025.03](europe/bosnia_and_herzegovina.md)
+- [Bosnia and Herzegovina 2025.03](europe/bosnia_and_herzegovina.md) (finished)
