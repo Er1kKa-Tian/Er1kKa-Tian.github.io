@@ -1,5 +1,7 @@
 # Bosnia and Herzegovina 2025.03
 
+## Intro
+
 When Yangyang raised the possibility of visiting Bosnia, "Bosnia and Herzegovina" was still a vague and distant concept for me. My only knowledge of Bosnia came from casual readings about the Bosnian War in the 1990s and Yugoslavia. I've never been to Balkans, and I did not expect this 7-day trip to be such an unforgettable adventure.
 
 ???+ failure "Why France when there's Bosnia?"
@@ -11,10 +13,6 @@ When Yangyang raised the possibility of visiting Bosnia, "Bosnia and Herzegovina
      data-config="/data/bosnia/config.json">
 </div>
 
-
-## Intro
-
-(todo:)
 
 ???+ info "Useful Bosnian Dialogue Expressions"
 
@@ -255,7 +253,11 @@ The highlight of this train journey was climbing over mountain pass between Grad
 
 ???+ info "Purchasing Tickets"
 
-    (todo)
+    You can check timetables and purchse tickets from [ZFBH official website](https://www.zfbh.ba/en/). They provide a detailed guide about how to purchase ticket online [here](https://www.zfbh.ba/en/kako-kupiti-kartu/).
+
+    You still need to collect tickets even if you purchse them online. If you buy tickets from the station, a booking fee will be appled.
+
+    The seating classification system (i.e. 1st/2nd class) has been canceled, so you can safely use 1st class coaches with any ticket.
 
 ## Mostar
 
@@ -300,13 +302,30 @@ It was already 7pm as our revision ended for that day. Half-a-day hard work made
     ![university](/assets/bosnia/mostar_flood.jpg){ width="169" loading=lazy }
     ![university](/assets/bosnia/mostar_us.jpg){ width="300" loading=lazy }
 
-### Life, , Coffee, Econometrics, and My Loved One
+### Life, Coffee, Econometrics, and My Loved One
 
 
 Our lives were quite calm but still exciting on the following two days in Mostar. We more or less got used to the local lifestyle --- as if we were visiting students there. There were some chocolates with "UWC Mostar" printed on their covers, so we supposed our hosts might have some connections with it. We walked around and explored the serene town in the morning --- the weather expelled nearly tourists and revealed the most authentic flavour Mostar. Then, we got back home and cooked our own food. More Chinese elements were added in the second and third day: though no one had probably thought about cooking tomato and egg stir fry in a Bosnian airbnb, it did happen. Following a snap was a revision session until the night, when we went to Hindin Han for nice treats, and then called it a day.
 
-(todo: coffee, revision, yangyang)
+Alongside doing all the revisions, I also searched and applied to some internship positions at UNESCAP. Though later it turned out that none of them was successful, exploring and planning my life while discussing with Yangyang made me assuring. Interacting with new environment, new people, new opportunities, but with my loved and familiar one (and with a cup of oat vanilla latte) --- something that I really enjoyed.
 
 ## Moving On, They and Us
 
-(todo: )
+On the last day, we left our temporary home before sunrise. Crossing sleeping streets, we said goodbye to this thousands years old town. Along the same route through which we came, our train ran nimbly towards Sarajevo. Throughout this train journey and later on the flight to London, Yangyang slept well on my shoulders and knees. Sunshine gently shed on my face --- at that moment, I started to realise this trip has something more remarkable for both of us than a short escape before exams.
+
+We spent only one week on our trip to BiH, but writing down this story has taken me more than two months (I started in August, and now it's October) --- mostly due to my laziness for sure. Looking back at different time spots (and different physical locations) across the two months, my feelings were also quite different --- as this trip becoming more and more distant in my memory, some details inevitably faded, but it's not converging to some "good old days" with reminiscence --- simply because every day is getting better since I met Yangynag. In that sense, if this trip eventually collapsed to a single point in my memory, it's likely to have a name as the singularity our life journey together.
+
+*Xiaotian Tian*
+
+*03 October 2025, Portsmouth, UK*
+
+???+ photo "Extra Photos"
+
+    ![ex1](/assets/bosnia/mostar_ex1.jpeg){ width="300" loading=lazy }
+    ![ex2](/assets/bosnia/mostar_ex2.jpeg){ width="300" loading=lazy }
+    ![ex3](/assets/bosnia/mostar_ex3.jpeg){ width="300" loading=lazy }
+    ![ex4](/assets/bosnia/mostar_ex4.jpg){ width="169" loading=lazy }
+    ![ex5](/assets/bosnia/mostar_ex5.jpg){ width="169" loading=lazy }
+    ![ex6](/assets/bosnia/mostar_ex6.jpg){ width="300" loading=lazy }
+    ![ex7](/assets/bosnia/mostar_ex7.jpg){ width="169" loading=lazy }
+    ![ex8](/assets/bosnia/mostar_ex8.jpg){ width="300" loading=lazy }
