@@ -39,6 +39,29 @@
 **London Tube, UK** ![Shanghai](/assets/yangyang/yangyang_and_i_tube.jpg){ loading=lazy } 
 { .card }
 
+**Changi Airport, Singapore** ![Changi1](/assets/yangyang/yangyang_and_i_changi_1.jpg){ loading=lazy } Reunion! 
+{ .card }
+
+**Saizeriya Restaurant, Singapore** ![Saizeriya](/assets/yangyang/yangyang_and_i_saizeriya_1.jpg){ loading=lazy } 
+{ .card } 
+
+**Saizeriya Restaurant, Singapore** ![Saizeriya](/assets/yangyang/yangyang_and_i_saizeriya_2.jpg){ loading=lazy } This should be the proper price for all western style food. 
+{ .card } 
+
+**Marina, Singapore** ![Marina](/assets/yangyang/yangyang_and_i_marina.jpg){ loading=lazy } huhusiga
+{ .card }
+
+**Marina, Singapore** ![Marina](/assets/yangyang/yangyang_and_i_marina_3.jpg){ loading=lazy } huhusiga $\times$ 2
+{ .card }
+
+**MRT, Singapore** ![Marina](/assets/yangyang/yangyang_and_i_mrt.jpg){ loading=lazy } 
+{ .card }
+
+**Harbour Front, Singapore** ![Marina](/assets/yangyang/yangyang_and_i_harbour_front.jpg){ loading=lazy } Sunset!
+{ .card }
+
+**Changi Airport, Singapore** ![Changi2](/assets/yangyang/yangyang_and_i_changi_2.jpg){ loading=lazy } Time to say goodbye for a while :(
+{ .card }
 
 </div>
 
