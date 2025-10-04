@@ -8,6 +8,7 @@
 ## Africa
 
 - [Egypt 2025.09](africa/egypt.md)
+    - [Cairo-Luxor Sleeper Train](africa/egypt_train.md)
 
 ## America
 

@@ -118,6 +118,11 @@ nav:
       - Oxford MPhil Econ Notes: resources/ox_notes.md
   - Travel:
       - Overview: travel/travel_index.md
+      - Asia:
+        - Singapore: travel/asia/singapore.md
+      - Africa:
+        - Egypt: travel/africa/egypt.md
+        - Cairo-Luxor Sleeper Train: travel/africa/egypt_train.md
       - UK:
         - Brockenhurst: travel/uk/brockenhurst.md
       - Europe:
