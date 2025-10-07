@@ -150,7 +150,7 @@ plot_2023
 ```{r}
 ggsave(
   filename = "decile_plot_2023.png",  # file name
-  plot = plot_2024,                 # or specify your ggplot object
+  plot = plot_2023,                 # or specify your ggplot object
   width = 8, height = 5,              # in inches
   dpi = 300                           # high-resolution
 )
@@ -164,7 +164,7 @@ plot_2022
 ```{r}
 ggsave(
   filename = "decile_plot_2022.png",  # file name
-  plot = plot_2024,                 # or specify your ggplot object
+  plot = plot_2022,                 # or specify your ggplot object
   width = 8, height = 5,              # in inches
   dpi = 300                           # high-resolution
 )
