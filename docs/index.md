@@ -38,3 +38,4 @@ I used to play games a lot, including [Battlefield 1](https://battlefieldtracker
 - My learning stories here [here](learning/learning_index.md) (not yet completed)
 - A page dedicated to my girlfriend Yangyang [here](personal/yangyang/yangyang_index.md) :heart:
     - Our Bosnia trip [here](travel/europe/bosnia_and_herzegovina.md)
+- The Egypt sleeper train experience [here](travel/africa/egypt_train.md)
