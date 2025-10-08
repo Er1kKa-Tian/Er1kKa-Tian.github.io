@@ -10,17 +10,29 @@
 
 一年一共三个学期，MT(10-12月) HT(1-3月) TT(4-6月)，每个学期8周。
 
+
+| Term | Time | Modules |
+| :---: | :---: | :---: |
+| Pre-Michaelmas | Late September | Prep Maths |
+| **Michaelmas Term (MT)** | Early/Mid October - Early December | Core/Adv Micro/Macro/Metrics Part 1 |
+| Winter/Christmas Break | Early December - Mid January | (From AY2025-6: Core/Adv Micro/Macro/Metrics Exams Part 1) |
+| **Hilary Term (HT)** | Mid January - Mid March | Core/Adv Micro/Macro/Metrics Part 2 |
+| Spring/Easter Break | Mid March - Mid April | Revision |
+| Exam Week | Mid/Late April | Core/Adv Micro/Macro/Metrics Exams Part 2 |
+| **Trinity Term (TT)** | Late April - Mid June | Core ERM / Adv Maths / Both  (not examed)|
+
+
 在开学前的MT Week -2到MT Week 0先上一门Preparatory Maths，讲数学基础，包括基础概率论、多元微积分、差分方程、ODE、线性代数、静态/动态规划、最优控制。
 
 这门课的内容其实听不懂也没关系，不用太紧张。毕竟两周的时间是不可能学明白这么多内容的，而且有些难点（Value Function Iteration）后面的课里都没有用到。最重要的是感受牛津的教学水平到底有多烂，习惯巨大的课业压力以及不认真讲课的老师，（当然还有认识新朋友！）。
 
 整个MT、HT两学期都在学经典大三门：宏观、微观、计量。每个课可以选择Core/Advanced两个难度，有些基础很好、想读博的同学会选Advanced Micro/Metrics，但还没听说有人第一年选Advanced Macro的。时间安排大概是：周一到周三每天早上9:00-12:30上lecture，周四周五上class讲上一周的problem set。
 
-课程内容中规中矩，就是标准的graduate level economics，对就业自然是毫无用处（可能econ consulting除外？）。具体的内容下次单独开一篇写。
+课程内容中规中矩，就是标准的graduate level economics，对就业基本没有用处（可能econ consulting除外？）。具体的内容下次单独开一篇写。
 
 这三门实际学起来很累。首先是老师讲的差，我是UCL Econ毕业的，很多人骂UCL教的不行，但跟这比起来UCL的教学水平真是不知道高到哪里去了。宏观老师每节课换一种notation，一会用current-value Hamiltonian一会用present-value Hamiltonian，transversality condition也是每节课写的都不一样…微观和计量一开始的老师倒还行，比较重量级的都得后面才体验的到。除此以外，problem set里有些练习题描述不清楚或者非常难，写起极度痛苦，最后很多人都不写了（包括我自己）。
 
-大三门的考试在TT前一到两周。第一年只有这三门课算分，每门课都是100% 3-hour final exam，所以最后这9个小时的考试决定了整个研一的分数。不过今年应该要改了，拆成寒假考1.5小时+春假考1.5小时，也许会好一些。
+大三门的考试在TT前一到两周。第一年只有这三门课算分，每门课都是100% 3-hour final exam，所以最后这9个小时的考试决定了整个研一的分数。不过今年（2025-26）应该要改了，拆成寒假考1.5小时+春假考1.5小时。
 
 第三学期TT有两门课Core Empirical Research Methods和Advanced Maths，至少需要选其中的一门。这两门课都是不算分的，只要交作业pass了就行。Advanced Maths对不读博的同学没什么用（实分析、泛函分析、测度论），但大家普遍还是都会选，这样第二年可以少考一门课，而且这门课的作业GPT老师都能轻松战胜哈哈哈。Core ERM主要教R以及一些实证研究方法，内容和教学还是不错的，但是很累，每周都有recording+三节lecture+巨长的problem set。不过整体来说第三学期还挺开心，毕竟天气好起来了，而且不用考试。
 
@@ -37,8 +49,19 @@
 
 只是看这些数据，我们就已经得到不少有趣的发现了。其中最重要的就是，所谓“牛津MPhil Economics不会fail人”纯属谣言，尤其是micro：可以看到，除了在2024年由于系里面发错卷子导致所有人都拿了至少60分以外，每一年都有至少10%的人挂科了微观（第一十分位小于50分）。所以，完全不学习并把全部精力都花在其他事情上可能并不是一个稳妥的选择。同时，微观也是grade dispersion最大的一门课。所以，花更多的时间把微观学好可能也是一种应试策略，尤其是对于需要卷funding的同学们。
 
-## Strategies
+## General Strategies
 
+在具体的策略和技巧上，我觉得最重要的并不是如何学习，而是明确自己从MPhil毕业之后想干什么。这个问题听起来很大，但其中最重要的决定就是：要不要读博。
+
+虽然系里面会说“第一年不确定也没关系”，但从实际情况来看，在学术和就业市场的竞争都越来越激烈的当下，举棋不定大概率意味着两方面都做不好。读博的同学们需要做RA，建立自己的学术人脉，找合作机会、要推荐信、发表文章等等。在做这些事的同时，还需要至少在考试中拿到merit才有本校的phd offer，想拿funding的话更是需要成绩、科研、人脉面面俱到。找工作的同学也不轻松，很多人第一学期完全不上课，全职找实习（今年应该是没法这么操作了，毕竟寒假也得考试）。
+
+当然了道路并不只这两条，但那就得大家自己探索和实践了。
+
+
+
+## Flipside
+
+最后还是说说体验比较不错的点吧。我遇到的同学真的都特别好，而且因为牛津城市很小，大家都住的都近，所以经常和朋友们一起玩或者学习。虽然读博的同学很卷，找实习的同学很忙，但氛围还是不错的，我这种不太喜欢社交的人也能有不少好朋友。学校的运动场馆和设施比较全（就是经常约不到，得抢，或者去隔壁Brookes），每个学院都有common room可以玩或者聊天。这一年能顺利读完全靠阳阳和我的好朋友们哈哈哈哈。
 
 ## Further Tips and Resources
 
