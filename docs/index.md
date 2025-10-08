@@ -21,6 +21,15 @@ I have interests in Heterodox Economics, Political Economy, Transportation (espe
 
 I used to play games a lot, including [Battlefield 1](https://battlefieldtracker.com/bf1/profile/origin/Er1kKa/overview), [Battlefield 5](https://battlefieldtracker.com/bfv/profile/origin/Er1kka/overview), Broken Arrow, Transport Fever, and MSFS.
 
+## Status Update
+
+What I'm doing recently:
+
+- Finishing the 2nd year of MPhil
+- Thinking about the thesis and future plans...
+- Reading [A Brief History of Neoliberalism](https://academic.oup.com/book/40603) by David Harvey
+- Work on this website :)
+
 ## Links
 
 *Feel free to reach out!* 🫡
@@ -32,10 +41,11 @@ I used to play games a lot, including [Battlefield 1](https://battlefieldtracker
 
 ## You may have a loot at...
 
-- My notes for UCL BSc Economics [here](resources/ucl_notes.md)
-- My notes for Oxford MPhil Economics [here](resources/ox_notes.md)
-- My projects [here](projects/project_index.md)
-- My learning stories here [here](learning/learning_index.md) (not yet completed)
-- A page dedicated to my girlfriend Yangyang [here](personal/yangyang/yangyang_index.md) :heart:
-    - Our Bosnia trip [here](travel/europe/bosnia_and_herzegovina.md)
-- The Egypt sleeper train experience [here](travel/africa/egypt_train.md)
+- My [notes for UCL BSc Economics](resources/ucl_notes.md)
+- My [experience and tips for Oxford MPhil Economics](learning/ox_mphil_econ/index.md) (written in Chinese) and [notes](resources/ox_notes.md)
+- My [projects](projects/index.md)
+- My [learning stories](learning/index.md) (not yet completed)
+- [A page dedicated to my girlfriend Yangyang](personal/yangyang/yangyang_index.md) :heart:
+    - [Our Bosnia trip](travel/europe/bosnia_and_herzegovina.md)
+    - [Our Singapore trip(?)](travel/asia/singapore.md)
+- The [Egypt sleeper train experience](travel/africa/egypt_train.md)
