@@ -1,3 +1,0 @@
-# How I Got Here?
-
-This part provides some stories and summaries of my journey of quest. ["23 Years in One Page"](learning_summary.md) is a (probably over simplified) account of my personal history. There are also specific stories, including some reflections and comments about the [BSc Economics at UCL](ucl_bsc_economics.md) and [MPhil Economics at Oxford](ox_mphil_econ/ox_mphil_econ_index.md) (written in Chinese).

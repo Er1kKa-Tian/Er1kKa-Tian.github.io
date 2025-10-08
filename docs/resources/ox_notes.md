@@ -1,6 +1,7 @@
 # Notes for Oxford MPhil in Economics 2023-2026
 
 - Those are not as detailed and well-structured as my undergrad notes since my focus was no longer on mainstream economics.
+- You may also have a look at my learning experience and tips [here](../learning/ox_mphil_econ/index.md) :)
 
 ## Year 1 (2024-2025)
 

@@ -99,26 +99,26 @@ nav:
   - Home: index.md
   - My Background: about.md
   - Academic/Professional:
-      - Overview: academic/academic_index.md
+      - Overview: academic/index.md
   - Projects:
-      - Overview: projects/project_index.md
+      - Overview: projects/index.md
       - Asian Transport Observatory:
           - Priority Project Pipeline Database: projects/ato_pipeline.md
           - Aviation Country Profile: projects/ato_aviation.md
           - Aviation Country Profile Sample: projects/ato_aviation_sample.md
   - My Learning Stories:
-      - Main page: learning/learning_index.md
+      - Main page: learning/index.md
       - Summary: learning/learning_summary.md
       - Methodology:  learning/methodology.md
       - UCL BSc Economics:
-          - Overview: learning/ucl_bsc_economics.md
+          - Overview: learning/ucl_bsc_econ/index.md
       - Oxford MPhil Economics:
-          - Overview: learning/ox_mphil_econ/ox_mphil_econ_index.md
+          - Overview: learning/ox_mphil_econ/index.md
   - Resources:
       - UCL BSc Econ Notes: resources/ucl_notes.md
       - Oxford MPhil Econ Notes: resources/ox_notes.md
   - Travel:
-      - Overview: travel/travel_index.md
+      - Overview: travel/index.md
       - Asia:
         - Singapore: travel/asia/singapore.md
       - Africa:
@@ -129,7 +129,7 @@ nav:
       - Europe:
         - Bosnia and Herzegovina: travel/europe/bosnia_and_herzegovina.md
   - Personal:
-    - Overview: personal/personal_index.md
+    - Overview: personal/index.md
     - with Yangyang: personal/yangyang/yangyang_index.md
     - Friends: personal/friends.md
   - Misc:
