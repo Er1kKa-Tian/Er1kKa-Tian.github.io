@@ -110,10 +110,8 @@ nav:
       - Main page: learning/index.md
       - Summary: learning/learning_summary.md
       - Methodology:  learning/methodology.md
-      - UCL BSc Economics:
-          - Overview: learning/ucl_bsc_econ/index.md
-      - Oxford MPhil Economics:
-          - Overview: learning/ox_mphil_econ/index.md
+      - UCL BSc Economics: learning/ucl_bsc_econ.md
+      - Oxford MPhil Economics: learning/ox_mphil_econ.md
   - Resources:
       - UCL BSc Econ Notes: resources/ucl_notes.md
       - Oxford MPhil Econ Notes: resources/ox_notes.md
