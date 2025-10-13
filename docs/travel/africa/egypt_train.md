@@ -69,7 +69,7 @@ Fares also differ for online bookings and in-station purchases. In October, for 
 
     I did face that situation, and I tried all possible ways to get a refund, including calling their numbers, sending WhatsApp, and writing emails. For me, the email method works. Their email addresses are support@abelatrains.com, info@abelatrains.com, and complain@abelatrains.com. I suggest to write to all of the above addresses if you need to refund. The money will typically be returned in a few weeks.
 
-## Upper Egypt (Cairo) Station
+## Upper Egypt / Bashteel Station (Great Cairo)
 
 ### Getting to the Station
 
@@ -77,7 +77,13 @@ There are two main stations in Cairo: the old Ramses Station on the east bank of
 
 Compared with the old station located in the congested old Cairo city, the new Upper Egypt Station seems to have better road connectivity conditions. However, in reality, the complicated highway and road design around station is very hard to navigate through. Drivers frequently get lost around the station, so do leave early for the station!
 
-### Facilities
+### Design
+
+Inaugurated on 12 October 2024, the Upper Egypt Station represents the frontier of railway development in Egypt. Inspired by pyramids, the station employed a unique triangular design with 2 edges as train platforms and the other one as road access. The centre hall also adopted the structure of pyramid, but built with glasses instead of stones.
+
+**Station Layout** ![](/assets/egypt_train/ue_layout.png){ loading=lazy } 
+{ .card }
+
 
 <div class="grid" markdown>
 
@@ -88,6 +94,15 @@ Compared with the old station located in the congested old Cairo city, the new U
 { .card }
 
 </div>
+
+### Facilities
+
+The [ambitious design from Hassan Allam holdings](https://www.hassanallam.com/projects/bashteel-train-station) -- the contractor responsible for designing and building the station -- consists of not only modern station facilities such as a waiting hall, a ticket hall, platforms, and gates, but also a commercial centre and peripherals, making this superstructure a regional economic centre rather than merely a transportation hub.
+
+Currently, there's only one supermarket and a few convenient stores operating in the station, but more should be expected as the station becomes popular.
+
+Apart from passenger facilities, there is also a train depot and a dedicated cargo platform.
+
 
 <div class="grid" markdown>
 
@@ -135,12 +150,16 @@ Compared with the old station located in the congested old Cairo city, the new U
 
 ### Exterior
 
+As there were still some time before the (delayed) departure, we walked along the platform to curiously inspect the rolling stock. The passenger coaches were imported from DDR/East Germany in 1980s. Our train consisted of ordinary "sleeping car"s, "VIP sleeping car"s, a "club car", a postage car, and a power car. Considering their ages, it's not surprising that the exterior of the train was not in good conditions.
+
+In sharp contrast to coaches, the locomotive was a newly built GE variant imported from US.
+
 <div class="grid" markdown>
 
 **Locomotive** ![](/assets/egypt_train/train_1.jpg){ loading=lazy } GE ES30/40ACi
 { .card }
 
-**Sleeper Trains** ![](/assets/egypt_train/train_2.jpg){ loading=lazy } Train No. 82 (left) and 86 (right)
+**Sleeper Trains** ![](/assets/egypt_train/train_2.jpg){ loading=lazy } Train No. 82 (left) and 86 (right). They occupy the two best platforms in the Uppder Egypt Station (passengers don't need to go through the underpass).
 { .card }
 
 **Boarding** ![](/assets/egypt_train/train_3.jpg){ loading=lazy } 
@@ -153,6 +172,8 @@ Compared with the old station located in the congested old Cairo city, the new U
 </div>
 
 ### Interior
+
+The interior of the train was fairly well-maintained. Each coach had different interior decorations. Some of them had been refurbished with a more modern design, but ours still kept the original 1980 East Germany layout. We were lucky to be among the last passengers travelling in this living museum.
 
 <div class="grid" markdown>
 
@@ -194,6 +215,27 @@ Compared with the old station located in the congested old Cairo city, the new U
 
 </div>
 
+## The Journey
+
+### Onboard Catering
+
+<div class="grid" markdown>
+
+**Dinner** ![](/assets/egypt_train/dinner_1.jpg){ loading=lazy } 
+{ .card }
+
+**Dinner** ![](/assets/egypt_train/dinner_2.jpg){ loading=lazy } 
+{ .card }
+
+**Tea** ![](/assets/egypt_train/tea.jpg){ loading=lazy } 
+{ .card }
+
+**Breakfast** ![](/assets/egypt_train/breakfast.jpg){ loading=lazy } 
+{ .card }
+
+</div>
+
+
 <div class="grid" markdown>
 
 **Attendant's Room** ![](/assets/egypt_train/attendant_room_1.jpg){ loading=lazy } 
@@ -211,8 +253,46 @@ Compared with the old station located in the congested old Cairo city, the new U
 </div>
 
 
-### Club Car
+
+### Switching to Sleeping Layout
+
+<div class="grid" markdown>
+
+**Setting up the Ladder** ![](/assets/egypt_train/bed_1.jpg){ loading=lazy } 
+{ .card }
+
+**Extending the Upper Berth** ![](/assets/egypt_train/bed_2.jpg){ loading=lazy } 
+{ .card }
+
+**Single Cabin** ![](/assets/egypt_train/bed_3.jpg){ loading=lazy } 
+{ .card }
+
+**Single Cabin** ![](/assets/egypt_train/bed_4.jpg){ loading=lazy } 
+{ .card }
+
+</div>
 
 
 ## Luxor Station
 
+<div class="grid" markdown>
+
+**Arrival** ![](/assets/egypt_train/luxor_0.jpg){ loading=lazy } 
+{ .card }
+
+**Luxor Station Platform** ![](/assets/egypt_train/luxor_1.jpg){ loading=lazy } 
+{ .card }
+
+**Luxor Station Platform** ![](/assets/egypt_train/luxor_2.jpg){ loading=lazy } 
+{ .card }
+
+**Luxor Station Platform** ![](/assets/egypt_train/luxor_3.jpg){ loading=lazy } 
+{ .card }
+
+**Luxor Station Depot** ![](/assets/egypt_train/luxor_4.jpg){ loading=lazy } 
+{ .card }
+
+**Luxor Station Hall** ![](/assets/egypt_train/luxor_5.jpg){ loading=lazy } 
+{ .card }
+
+</div>
