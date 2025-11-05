@@ -27,7 +27,7 @@ What I'm doing recently:
 
 - Finishing the 2nd year of MPhil
 - Thinking about the thesis and future plans...
-- Reading [A Brief History of Neoliberalism](https://academic.oup.com/book/40603) by David Harvey
+- Reading various books on the rise and fall of liberalism and trade
 - Work on this website :)
 
 ## Links

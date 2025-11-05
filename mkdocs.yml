@@ -113,6 +113,7 @@ nav:
       - UCL BSc Economics: learning/ucl_bsc_econ.md
       - Oxford MPhil Economics: learning/ox_mphil_econ.md
   - Resources:
+      - Overview: resources/index.md
       - UCL BSc Econ Notes: resources/ucl_notes.md
       - Oxford MPhil Econ Notes: resources/ox_notes.md
   - Travel:
