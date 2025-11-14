@@ -109,6 +109,7 @@ nav:
   - My Learning Stories:
       - Main page: learning/index.md
       - Summary: learning/learning_summary.md
+      - A Chronological Account: learning/library.md
       - Methodology:  learning/methodology.md
       - UCL BSc Economics: learning/ucl_bsc_econ.md
       - Oxford MPhil Economics: learning/ox_mphil_econ.md
