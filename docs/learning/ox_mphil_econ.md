@@ -114,6 +114,8 @@ MT Week 1开始上的三门core还是要认真学的。如果你本科也是经�
 
 ## If You Share the Same Passion with Me
 
+**Too large a proportion of recent ‘mathematical’ economics are mere concoctions, as imprecise as the initial assumptions they rest on, which allow the author to lose sight of the complexities and interdependencies of the real world in a maze of pretentious and unhelpful symbols.**  *-- John Maynard Keynes, General Theory Of Employment, Interest And Money*
+
 我觉得应该不止我一个人抱着“理解现实中经济运行的复杂规律”的心态选择了经济学，而在学习过程中不断感到失望、产生质疑，但又困惑与自己的批判不成体系，或是不知道除了主流经济学以外有什么其他选项。如果你也有这样的经历，我觉得以下的思路可以供参考：
 
 首先，我们花这么大力气学习新古典经济学并不是浪费——至少现在你可以看懂批判它的文章或者书了！我认为其中最容易上手的是对现代主流宏观经济学的批判：任何学完第一年宏观的人应该都能看懂类似于[Cordon of Conformity: Why DSGE Models Are Not the Future of Macroeconomics](https://doi.org/10.1080/08911916.2021.1929582)的简单文章。看了几篇类似作品之后你应该对主流经济学的一些问题就有初步的但具体的认识了。
