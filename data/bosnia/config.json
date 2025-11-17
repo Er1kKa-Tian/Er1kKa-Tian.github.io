@@ -1,0 +1,6 @@
+{
+    "cities": {
+        "geojson": "cities.geojson",
+        "fit": true
+    }
+}
