@@ -1,6 +1,8 @@
 # The Grand Library of Er1kKa
 
-This is a chronological account of the books/important articles/courses that I read/took. **Recommended/Important items** are highlighted in bold font.
+This is a chronological account of the books/important articles/courses that I read/took. Items that provided me with new insights are highlighted in **bold font**.
+
+*As you will see, I read writings from many strands of literature, and I do not necessarily agree with all of their arguments.*
 
 ## 2025
 
@@ -8,7 +10,7 @@ This is a chronological account of the books/important articles/courses that I r
 - (book: political economy) Pilkington, P. (2025) **The Collapse of Global Liberalism: and the Emergence of the Post-liberal World Order**
 - (book: political economy) Harvey, D. (2014) **Seventeen Contradictions and the End of Capitalism**
 - (book: political economy) Harvey, D. (2007) **A Brief History of Neoliberalism**
-- (book: economics) Mazzucato, M. (2018) The value of everything: making and taking in the global economy
+- (book: economics) Mazzucato, M. (2018) **The Value of Everything: Making and Taking in the Global Economy**
 - (book: economics) 21st Century Monetary Policy: The Federal Reserve from the Great Inflation to COVID-19. Ben S. Bernanke (fn: 202501)
 
 ## 2024
