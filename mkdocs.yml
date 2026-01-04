@@ -106,13 +106,15 @@ nav:
           - Priority Project Pipeline Database: projects/ato_pipeline.md
           - Aviation Country Profile: projects/ato_aviation.md
           - Aviation Country Profile Sample: projects/ato_aviation_sample.md
-  - My Learning Stories:
-      - Main page: learning/index.md
-      - Summary: learning/learning_summary.md
-      - A Chronological Account: learning/library.md
-      - Methodology:  learning/methodology.md
-      - UCL BSc Economics: learning/ucl_bsc_econ.md
-      - Oxford MPhil Economics: learning/ox_mphil_econ.md
+#  - My Learning Stories:
+#      - Main page: learning/index.md
+#      - Summary: learning/learning_summary.md
+#      - A Chronological Account: learning/library.md
+#      - Education:
+#          - UCL BSc Economics: learning/ucl_bsc_econ.md
+#          - Oxford MPhil Economics: learning/ox_mphil_econ.md
+#      - Economics:
+#          - After All, What Are Economics Models?: learning/econ_models.md
   - Resources:
       - Overview: resources/index.md
       - UCL BSc Econ Notes: resources/ucl_notes.md

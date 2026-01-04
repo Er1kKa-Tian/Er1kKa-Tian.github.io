@@ -44,7 +44,6 @@ What I'm doing recently:
 - My [notes for UCL BSc Economics](resources/ucl_notes.md)
 - My [experience and tips for Oxford MPhil Economics](learning/ox_mphil_econ/index.md) (written in Chinese) and [notes](resources/ox_notes.md)
 - My [projects](projects/index.md)
-- My [learning stories](learning/index.md) (not yet completed)
 - [A page dedicated to my girlfriend Yangyang](personal/yangyang/yangyang_index.md) :heart:
     - [Our Bosnia trip](travel/europe/bosnia_and_herzegovina.md)
     - [Our Singapore trip(?)](travel/asia/singapore.md)
