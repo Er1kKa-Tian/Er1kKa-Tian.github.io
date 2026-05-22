@@ -12,14 +12,14 @@ A sample country profile for Indonesia can be accessed [here](ato_aviation_sampl
 
 Here are some sample figures:
 
-![Aviation_Trips_GDP](/assets/ato/ATO_Aviation_Trips_GDP.png){ loading=lazy }
-![PKM](/assets/ato/ATO_Aviation_PKM.png){ loading=lazy }
-![Perceptions](/assets/ato/ATO_Aviation_Perceptions.png){ loading=lazy }
-![Iata_Connectivity](/assets/ato/ATO_Aviation_Iata_Connectivity.png){ loading=lazy }
-![Emission_Intensity](/assets/ato/ATO_Aviation_Emission_Intensity.png){ loading=lazy }
-![Multihazard_Loss](/assets/ato/ATO_Aviation_Multihazard_Loss.png){ loading=lazy }
-![ODA](/assets/ato/ATO_Aviation_ODA.png){ loading=lazy }
-![Policy](/assets/ato/ATO_Aviation_Policy.png){ loading=lazy }
+![Aviation_Trips_GDP](../assets/ato/ATO_Aviation_Trips_GDP.png){ loading=lazy }
+![PKM](../assets/ato/ATO_Aviation_PKM.png){ loading=lazy }
+![Perceptions](../assets/ato/ATO_Aviation_Perceptions.png){ loading=lazy }
+![Iata_Connectivity](../assets/ato/ATO_Aviation_Iata_Connectivity.png){ loading=lazy }
+![Emission_Intensity](../assets/ato/ATO_Aviation_Emission_Intensity.png){ loading=lazy }
+![Multihazard_Loss](../assets/ato/ATO_Aviation_Multihazard_Loss.png){ loading=lazy }
+![ODA](../assets/ato/ATO_Aviation_ODA.png){ loading=lazy }
+![Policy](../assets/ato/ATO_Aviation_Policy.png){ loading=lazy }
 
 
 

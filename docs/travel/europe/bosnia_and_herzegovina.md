@@ -10,7 +10,7 @@ When Yangyang raised the possibility of visiting Bosnia, "Bosnia and Herzegovina
 
 <div class="ol-map"
      data-map="bosnia"
-     data-config="/data/bosnia/config.json">
+     data-config="../../data/bosnia/config.json">
 </div>
 
 
@@ -24,8 +24,8 @@ When Yangyang raised the possibility of visiting Bosnia, "Bosnia and Herzegovina
     - Asking for directions: Where is the $\to$ (Bosian) Gdje je ...?
     - Compliments: You are so beautiful/handsome! $\to$ (Bosian) Tako si lijep/zgodna!
 
-    You can remember those expressions on your flight. Combined with body languages, those expressions are surprisingly effective! (You will see an example below.) 
-    
+    You can remember those expressions on your flight. Combined with body languages, those expressions are surprisingly effective! (You will see an example below.)
+
     The only time we faced communication issue in Bosnia is when I tried to know whether there were eggd in a supermarket -- I really didn't know how to act like an egg.
 
 
@@ -47,11 +47,11 @@ The first stop is Oxford Gloucester Bus Station where we took the National Expre
 Nevertheless, at least the bus was on time, and we went through all the procedures at Gatwick smoothly. By 07:45, we already seated on our flight to Sarajevo.
 
 ???+ photo inline end "Mountains"
-    
-    **Mountains** ![Mountains](/assets/bosnia/wizz_air.jpg){ width="400 loading=lazy }
+
+    **Mountains** ![Mountains](../../assets/bosnia/wizz_air.jpg){ width="400" loading=lazy }
     { .card }
-    
-    **Sarajevo Airport** ![Sarajevo Airport](/assets/bosnia/sarajevo_airport.jpg){ width="400" loading=lazy } Walk yourself from the aircraft to the border control.
+
+    **Sarajevo Airport** ![Sarajevo Airport](../../assets/bosnia/sarajevo_airport.jpg){ width="400" loading=lazy } Walk yourself from the aircraft to the border control.
     { .card }
 
 The flight was smooth and we got a beautiful glimpse of snow-capped mountains when crossing Switzerland.
@@ -63,10 +63,10 @@ As there's no convenient public transportation going from Sarajevo airport to th
 
     ???+ inline end "Official Fares"
 
-        ![Official Fares](/assets/bosnia/sarajevo_taxi.jpg){ width="300" loading=lazy }
+        ![Official Fares](../../assets/bosnia/sarajevo_taxi.jpg){ width="300" loading=lazy }
 
     For locals, the taxi fare from the airport to city centre is typically 20 KM/BAM. However, taxi drivers will charge more than 40 KM/BAM for tourists. BUT THAT WON'T BE THE CASE FOR US!
-    
+
     Using the language expressions learned in the first section, you can negotiate price with the driver:
 
     - Zdravo! Koliko centar grada? (Hi! How much to the city centre. *Search for the word "centar grada" in advance.. and never care about grammar!*)
@@ -77,7 +77,7 @@ As there's no convenient public transportation going from Sarajevo airport to th
 
     We've tried and succeeded. Only understanding the basic language grants you additional advantage that you won't be able to understand any furious insults from the local driver :)
 
-The real trouble started after we arrived at the building where our Airbnb room located. 
+The real trouble started after we arrived at the building where our Airbnb room located.
 
 We did not purchase a SIM card at the airport since we deemed there should be better options. Since we also did not having roaming services, we were basically cut off from the internet. The only clue about our airbnb location was a couple of esoteric Bosnian sentences received from our host, which we couldn't decipher.
 
@@ -87,13 +87,13 @@ We first located the building --- which was fairly easy since it's named using t
 
 ???+ photo inline end "Our Airbnb at Sarajevo"
 
-    **Seats for Two** ![room](/assets/bosnia/sarajevo_airbnb_1.jpg){ width="200" loading=lazy } Table perfect for the two of us.
+    **Seats for Two** ![room](../../assets/bosnia/sarajevo_airbnb_1.jpg){ width="200" loading=lazy } Table perfect for the two of us.
     { .card }
 
-    **Bedroom** ![room](/assets/bosnia/sarajevo_airbnb_2.jpg){ width="200" loading=lazy } Warm feeling.
+    **Bedroom** ![room](../../assets/bosnia/sarajevo_airbnb_2.jpg){ width="200" loading=lazy } Warm feeling.
     { .card }
 
-    **View outside the Window** ![room](/assets/bosnia/sarajevo_airbnb_3.jpg){ width="200" loading=lazy } Lads played football all day long.
+    **View outside the Window** ![room](../../assets/bosnia/sarajevo_airbnb_3.jpg){ width="200" loading=lazy } Lads played football all day long.
     { .card }
 
 That room made me feel nostalgic the moment I stepped in. It's hard to precisely describe why, but everything was so familiar as if I had been there before. There were some lads playing football outside. Accompanied by that sound, under slight dizziness caused by low fever, I got a small nap on the sofa, feeling like a normal afternoon 15 years ago in the old apartment where my childhood remains.
@@ -116,36 +116,36 @@ Anyway, that was the first day. Time for a good night of sleep.
 
     <div class="grid" markdown>
 
-    **Armored Train** ![armored train](/assets/bosnia/sarajevo_armored_train.jpg){ width="300" loading=lazy } An armored train located in the "Military Theme Playground" next to the famout Tito Cafe. We did see kids playing there during our visits.
+    **Armored Train** ![armored train](../../assets/bosnia/sarajevo_armored_train.jpg){ width="300" loading=lazy } An armored train located in the "Military Theme Playground" next to the famout Tito Cafe. We did see kids playing there during our visits.
     { .card }
 
-    **Field of Flags** ![field of flags](/assets/bosnia/sarajevo_field_of_flags.jpg){ width="300" loading=lazy } "The flags symbolize the struggles, triumphs, and transformations that have shaped the country."
+    **Field of Flags** ![field of flags](../../assets/bosnia/sarajevo_field_of_flags.jpg){ width="300" loading=lazy } "The flags symbolize the struggles, triumphs, and transformations that have shaped the country."
     { .card }
 
-    **Buildings in Sarajevo** ![building](/assets/bosnia/sarajevo_building.jpg){ width="200" loading=lazy } You can see shell craters everywhere on the buildings.
+    **Buildings in Sarajevo** ![building](../../assets/bosnia/sarajevo_building.jpg){ width="200" loading=lazy } You can see shell craters everywhere on the buildings.
     { .card }
 
-    **ICAR Canned Beef Monument** ![beefcan](/assets/bosnia/sarajevo_beefcan.jpg){ width="200" loading=lazy } A memorial to the food aid delivered during the Siege of Sarajevo.
+    **ICAR Canned Beef Monument** ![beefcan](../../assets/bosnia/sarajevo_beefcan.jpg){ width="200" loading=lazy } A memorial to the food aid delivered during the Siege of Sarajevo.
     { .card }
 
 ???+ photo "City Centre, Parliament, and the Blue Hours"
 
-    ![scc](/assets/bosnia/sarajevo_centre.jpg){ width="300" loading=lazy }
-    ![parliament](/assets/bosnia/sarajevo_parliament.jpg){ width="300" loading=lazy }
-    ![bluehours](/assets/bosnia/sarajevo_blue_hours.jpg){ width="300" loading=lazy }
-    
+    ![scc](../../assets/bosnia/sarajevo_centre.jpg){ width="300" loading=lazy }
+    ![parliament](../../assets/bosnia/sarajevo_parliament.jpg){ width="300" loading=lazy }
+    ![bluehours](../../assets/bosnia/sarajevo_blue_hours.jpg){ width="300" loading=lazy }
+
 
 ### Locals and Visitors
 
 ???+ photo inline "Paper Moon"
 
-    ![papermoon](/assets/bosnia/sarajevo_papermoon.jpg){ width="300" loading=lazy }
+    ![papermoon](../../assets/bosnia/sarajevo_papermoon.jpg){ width="300" loading=lazy }
 
 The weather was still cloudy on our second day. Somehow we skipped for the breakfast and opted for a hearty lunch. With extreme hunger and excitement from escaping British food, we ordered a steak, chicken pasta, and prawn salad from a nearby restaurant named "Paper Moon". Though located in an old apartment building, the restaurant itself was well decorated. I have to be honest that the price was sure not cheap (in the Bosnian sense), but the exceptional taste and amount instantly proved its value. As we enjoying our gourmet dishes, some shiny cars that did not fit in the street view parked outside, and people wearing suits seated down around another table. They seemed to be frequent visitors here. We couldn't understand what they were chatting, but probably not about the delicious food I suppose.
 
 ???+ photo inline end "Yangyang and the Cats"
 
-    ![cats](/assets/bosnia/sarajevo_cats.jpg){ width="200" loading=lazy }
+    ![cats](../../assets/bosnia/sarajevo_cats.jpg){ width="200" loading=lazy }
 
 On the way home, we encountered some unexpected locals -- cats. The fluffy guys probably had 7-day weekends per week, as they just kept lying on a sofa, not even reacting to our approach. Another surprise is that we accidentally walked into a local market hidden behind buildings where a few elders were selling fruits and vegetables. With Bosnian phrases learned from 30min Youtube videos a mixture with Russian words, I somehow successfully bought a couple of apples and bananas, which offered me a feeling of competency that I never had on a foreign language before. Of course, I soon had to re-evaluate my mastery in Bosnian as I tried to purchase a SIM card and struggled to explain when the saleslady seemed to be doubting my cash as counterfeit.
 
@@ -155,9 +155,9 @@ We finally saw other tourists while walking around the Latin Bridge --- but only
 
 ???+ photo
 
-    ![market](/assets/bosnia/sarajevo_market.jpg){ width="300" loading=lazy }
-    ![latinbridge](/assets/bosnia/sarajevo_latin_bridge.jpg){ width="300" loading=lazy }
-    ![dawn](/assets/bosnia/sarajevo_dawn.jpg){ width="300" loading=lazy }
+    ![market](../../assets/bosnia/sarajevo_market.jpg){ width="300" loading=lazy }
+    ![latinbridge](../../assets/bosnia/sarajevo_latin_bridge.jpg){ width="300" loading=lazy }
+    ![dawn](../../assets/bosnia/sarajevo_dawn.jpg){ width="300" loading=lazy }
 
 
 
@@ -173,15 +173,15 @@ Marching all the way to the east, the journey started to be more tiring as we cl
 
     From the hilltop, the city unfolded beneath us - red roofs, minarets, church towers, and streets winding like threads between them. Yet the view was not only beautiful; it was heavy with what had passed here. The dissolution of Yugoslavia, the siege, the war - they had left their marks, etched into walls and woven into air. History here does not retire quietly to books or museums; it lingers, clinging to bullet-pocked facades, echoing in alleyways, waiting in the pause between footsteps.
 
-    We were fortunate to catch a silver lining breaking through the mist after a sudden rain. In the fading light, Sarajevo seemed to breathe both sorrow and stillness, finding a balance between the two. Some wish history, especially those who have lived through it, to rest between the soil and the dawn. Others - unyielding - would let old blood seep once more into the city’s cracks, unwilling to see memory fade into quietness. This has always been my impression of Bosnia, in both the figurative and the physical. 
+    We were fortunate to catch a silver lining breaking through the mist after a sudden rain. In the fading light, Sarajevo seemed to breathe both sorrow and stillness, finding a balance between the two. Some wish history, especially those who have lived through it, to rest between the soil and the dawn. Others - unyielding - would let old blood seep once more into the city’s cracks, unwilling to see memory fade into quietness. This has always been my impression of Bosnia, in both the figurative and the physical.
 
     Three decades on, Bosnia still bears its wounds in the form of unfinished buildings with skeletal frames of concrete that stand alone against the wind. It is hard to know how much this history has shaped the country's unhurried Sundays. Yet perhaps the past has made its people to embrace a slower rhythm, a quiet turning away from the grind toward a gentler, shared equilibrium.
 
     Later, we lingered over tea in a small café on the hill before making our way back to the city centre. The cobblestones, slick from the days of constant rain, made the descent treacherous, but thanks to Xiaotian’s warm & steady & lovely hand, I managed not to fall. Along the way, we met a group of children - likely Turkish, judging by a word we recognised, one taught to us by a friend whose talents span from Turkish, Swahili, to serious economic research. They were brimming with excitement, planning what sounded like a pizza party somewhere up in the hills.
 
-    Further down, we encountered two rival gangs of cats - tails flicking, eyes narrowed, ears tilted in wary calculation. The battle of the fluffies hovered just on the edge of breaking out, the tension palpable (comical). 
+    Further down, we encountered two rival gangs of cats - tails flicking, eyes narrowed, ears tilted in wary calculation. The battle of the fluffies hovered just on the edge of breaking out, the tension palpable (comical).
 
-    The downhill stretch on this side was gentler, the pace unhurried. The air smelled faintly of wet stone and woodsmoke, and with each step, the city seemed to rise toward us, slowly reclaiming us from the hills. 
+    The downhill stretch on this side was gentler, the pace unhurried. The air smelled faintly of wet stone and woodsmoke, and with each step, the city seemed to rise toward us, slowly reclaiming us from the hills.
 
 $\uparrow$ Her words are so delicate while engaging, which made my writings completely lackluster. This story would be much more attractive had it been written by her. Yet please allow me to take over for this moment :)
 
@@ -193,9 +193,9 @@ The night turned chilly as we walked out the restaurant. As a final stop of the 
 
 ???+ photo
 
-    ![tram](/assets/bosnia/sarajevo_tram.jpg){ width="300" loading=lazy }
-    ![restaurant](/assets/bosnia/sarajevo_restaurant.jpg){ width="300" loading=lazy }
-    ![university](/assets/bosnia/sarajevo_university.jpg){ width="300" loading=lazy }
+    ![tram](../../assets/bosnia/sarajevo_tram.jpg){ width="300" loading=lazy }
+    ![restaurant](../../assets/bosnia/sarajevo_restaurant.jpg){ width="300" loading=lazy }
+    ![university](../../assets/bosnia/sarajevo_university.jpg){ width="300" loading=lazy }
 
 Can't deny, Sarajevo might not be the most scenic city I've ever been to, but its significance is not comparable by the others for me. In Data Science, a new sample will provide a maximal amount of information if it's orthogonal to existing ones -- the experience in Sarajevo of that kind to me. There was still too much to learn and ponder. Two days are merely a glimpse in the history of a city or a nation, but for me, I will probably never forget -- those two days will have their firm place in the tiny history of myself, in which Yangyang and I enjoyed our first trip aboroad.
 
@@ -203,7 +203,7 @@ Under the history live all the lively individuals. We hear stories from the othe
 
 Let's end this chapter with this slogan I saw on the way back:
 
-![scraw](/assets/bosnia/sarajevo_scraw.jpg){ loading=lazy }
+![scraw](../../assets/bosnia/sarajevo_scraw.jpg){ loading=lazy }
 
 
 ## The Train between Sarajevo and Mostar
@@ -212,8 +212,8 @@ Let's end this chapter with this slogan I saw on the way back:
 
 ???+ inline end photo
 
-    ![old building](/assets/bosnia/sarajevo_building_2.jpg){ width="180" loading=lazy }
-    
+    ![old building](../../assets/bosnia/sarajevo_building_2.jpg){ width="180" loading=lazy }
+
 
 The rain poured all night as we slept. The river Miljacka turned into a ferocious brown dragon, sweeping along everything that unluckily got into it. Under a single umbrella with our luggages, we carefully passed the bridge and managed to got into the Caribou Cafe. There were still hours before our train to Bosnia left, so we decided to have a quick review of the final exam, which would come in a month. With comfy tables and drinks, heavy rain instantly became the best harmony for esoteric econometrics, which made the revision session much enjoyable than in MRB. Lost in metric spaces, I accidentally poured hot tea over my hands. Extremely luckily, Yangyang brought the symptomatic medicine with her -- she was alway there when I'm in the most urgent need. Couldn't appreciate more.
 
@@ -221,9 +221,9 @@ Without notice, the world suddenly became bright -- while the raindrops still fa
 
 ???+ photo
 
-    ![caribo cafe](/assets/bosnia/sarajevo_cafe.jpg){ width="300" loading=lazy }
-    ![sunshine](/assets/bosnia/sarajevo_city_sun.jpg){ width="300" loading=lazy }
-    ![station](/assets/bosnia/sarajevo_station.jpg){ width="300" loading=lazy }
+    ![caribo cafe](../../assets/bosnia/sarajevo_cafe.jpg){ width="300" loading=lazy }
+    ![sunshine](../../assets/bosnia/sarajevo_city_sun.jpg){ width="300" loading=lazy }
+    ![station](../../assets/bosnia/sarajevo_station.jpg){ width="300" loading=lazy }
 
 Though significantly lack maintenance, the grand design of the station recorded its prosperous yesterday. Now, the empty front yard rendered another kind of post-doomsday beauty. There were few travellers so we quickly purchased our tickets. (Somehow the ticket officer charged more than we supposed.)
 
@@ -233,15 +233,15 @@ Compared with the clear disrepairs of platforms and tracks, the passenger coache
 
 ???+ photo
 
-    ![ticket hall](/assets/bosnia/sarajevo_station_interior.jpg){ width="169" loading=lazy }
-    ![sunshine](/assets/bosnia/sarajevo_station_2.jpg){ width="300" loading=lazy }
-    ![train](/assets/bosnia/train_back.jpg){ width="169" loading=lazy }
-    ![train](/assets/bosnia/train_us.jpg){ width="300" loading=lazy }
-    ![train](/assets/bosnia/train_first.jpg){ width="300" loading=lazy }
-    ![train](/assets/bosnia/train_second.jpg){ width="300" loading=lazy }
-    ![train](/assets/bosnia/train_buffet.jpg){ width="300" loading=lazy }
-    ![train](/assets/bosnia/train_countryside.jpg){ width="300" loading=lazy }
-    ![train](/assets/bosnia/train_spin.jpg){ width="169" loading=lazy }
+    ![ticket hall](../../assets/bosnia/sarajevo_station_interior.jpg){ width="169" loading=lazy }
+    ![sunshine](../../assets/bosnia/sarajevo_station_2.jpg){ width="300" loading=lazy }
+    ![train](../../assets/bosnia/train_back.jpg){ width="169" loading=lazy }
+    ![train](../../assets/bosnia/train_us.jpg){ width="300" loading=lazy }
+    ![train](../../assets/bosnia/train_first.jpg){ width="300" loading=lazy }
+    ![train](../../assets/bosnia/train_second.jpg){ width="300" loading=lazy }
+    ![train](../../assets/bosnia/train_buffet.jpg){ width="300" loading=lazy }
+    ![train](../../assets/bosnia/train_countryside.jpg){ width="300" loading=lazy }
+    ![train](../../assets/bosnia/train_spin.jpg){ width="169" loading=lazy }
 
 
 ### Across the Mountains
@@ -267,7 +267,7 @@ After the excitement, I fell asleep for a while we descended further along the N
 
 ???+ inline end photo
 
-    ![hindin han 1](/assets/bosnia/mostar_hdh_1.jpg){ width="169" loading=lazy }
+    ![hindin han 1](../../assets/bosnia/mostar_hdh_1.jpg){ width="169" loading=lazy }
 
 Located in a valley, Mostar was covered with light fog (or haze?) when we arrived. We walked for a while before arriving at our Airbnb, which was a top-floor 3-bedroom flat operated by a local couple. The hosts were nice and cordial. They showed us around and introduced the facilities. This giant flat was too much a luxury for the two of us -- I think this "party house" could easily fit in 10 occupants. Apart from some pungent smell from freshly resealed washroom, everything was perfect. There were even two balconies -- one with a panorama the historical old town and another one facing the mountain.
 
@@ -290,17 +290,17 @@ On the other hand, we did not envy the ducks as we were also enjoying the best f
 
 However, only eating in restaurants would never be enough to fully appreciate the food culture of a place, to eat like Bosnians (but with Chinese style), we decided to buy some food from the local supermarket and cook by ourselves. After being welcomed by a cat at the entrance, we entered the supermarket and started to hunt for inputs of our food production function. After a bit struggle and teamwork, Yangyang and I successfully concurred the Bosian weighting and vending machine, and got some noodles, meat, vegetables, and fruits. Sausages seemed to be a popular choice among the locals. Their tastes have already surprised us at Hindin Han, so we bought some frozen ones to see the taste difference between paid labour and self employment. We also purchased some fish fingers to have a fallback option in case our culinary skills turned out to be incompatible with Bosnian sausage. Yet in the end, despite some trials and errors in cooking, both of them ended up taste great.
 
-After a short snap in the afternoon, it's finally the time for revision --- this is definitely one of the pros of travelling to a relatively cheap destination: you can spend half a day just studying or reading in a random cafe without feeling regretful of the money spent. We chose another branch of Caribou Cafe located in the northern part of the town, where we were treated with great coffee and tea. As a bonus, the barista lady, whom we guessed to be a student at UWC, even showed us a private room with a large table for study. We also visited an adjacent accessory store for notebooks, where we met a super chatterbox cashier --- could be the shop owner as he seemed to be the only employee there. We believed that he was so talkative that it's a loss of he did not campaign to the president (actually one of the presidents as there were three of them in Bosnia). Anyway, thanks to the quiet and comfortable environment, as well as the high quality notebook we got, Yangyang and I spent a productive afternoon reviewing for our final exams, which I though might be the most "painless" revision session in our cohort, considering our colleagues were still trapped in the cursed libraries or accommodations in Oxford. 
+After a short snap in the afternoon, it's finally the time for revision --- this is definitely one of the pros of travelling to a relatively cheap destination: you can spend half a day just studying or reading in a random cafe without feeling regretful of the money spent. We chose another branch of Caribou Cafe located in the northern part of the town, where we were treated with great coffee and tea. As a bonus, the barista lady, whom we guessed to be a student at UWC, even showed us a private room with a large table for study. We also visited an adjacent accessory store for notebooks, where we met a super chatterbox cashier --- could be the shop owner as he seemed to be the only employee there. We believed that he was so talkative that it's a loss of he did not campaign to the president (actually one of the presidents as there were three of them in Bosnia). Anyway, thanks to the quiet and comfortable environment, as well as the high quality notebook we got, Yangyang and I spent a productive afternoon reviewing for our final exams, which I though might be the most "painless" revision session in our cohort, considering our colleagues were still trapped in the cursed libraries or accommodations in Oxford.
 
 It was already 7pm as our revision ended for that day. Half-a-day hard work made us wanna to try something different for our dinner, so we went to another restaurant with top reviews and recommended by our host --- the Urban Taste of the Orient. This restaurant turned out to be significantly more expansive than Hindin Han. Though the taste was still supreme --- actually we would rate it to be top of the tier if we were in the UK, we still got a bit disappointed compared with Hindin Han, also because we couldn't enjoy its highlight, view of the old bridge and river, due to chilly weather.
 
 
 ???+ photo
 
-    ![hdh2](/assets/bosnia/mostar_hdh_2.jpg){ width="169" loading=lazy }
-    ![restaurant](/assets/bosnia/mostar_grasshopper.jpg){ width="169" loading=lazy }
-    ![university](/assets/bosnia/mostar_flood.jpg){ width="169" loading=lazy }
-    ![university](/assets/bosnia/mostar_us.jpg){ width="300" loading=lazy }
+    ![hdh2](../../assets/bosnia/mostar_hdh_2.jpg){ width="169" loading=lazy }
+    ![restaurant](../../assets/bosnia/mostar_grasshopper.jpg){ width="169" loading=lazy }
+    ![university](../../assets/bosnia/mostar_flood.jpg){ width="169" loading=lazy }
+    ![university](../../assets/bosnia/mostar_us.jpg){ width="300" loading=lazy }
 
 ### Life, Coffee, Econometrics, and My Loved One
 
@@ -321,11 +321,11 @@ We spent only one week on our trip to BiH, but writing down this story has taken
 
 ???+ photo "Extra Photos"
 
-    ![ex1](/assets/bosnia/mostar_ex1.jpeg){ width="300" loading=lazy }
-    ![ex2](/assets/bosnia/mostar_ex2.jpeg){ width="300" loading=lazy }
-    ![ex3](/assets/bosnia/mostar_ex3.jpeg){ width="300" loading=lazy }
-    ![ex4](/assets/bosnia/mostar_ex4.jpg){ width="169" loading=lazy }
-    ![ex5](/assets/bosnia/mostar_ex5.jpg){ width="169" loading=lazy }
-    ![ex6](/assets/bosnia/mostar_ex6.jpg){ width="300" loading=lazy }
-    ![ex7](/assets/bosnia/mostar_ex7.jpg){ width="169" loading=lazy }
-    ![ex8](/assets/bosnia/mostar_ex8.jpg){ width="300" loading=lazy }
+    ![ex1](../../assets/bosnia/mostar_ex1.jpeg){ width="300" loading=lazy }
+    ![ex2](../../assets/bosnia/mostar_ex2.jpeg){ width="300" loading=lazy }
+    ![ex3](../../assets/bosnia/mostar_ex3.jpeg){ width="300" loading=lazy }
+    ![ex4](../../assets/bosnia/mostar_ex4.JPG){ width="169" loading=lazy }
+    ![ex5](../../assets/bosnia/mostar_ex5.JPG){ width="169" loading=lazy }
+    ![ex6](../../assets/bosnia/mostar_ex6.JPG){ width="300" loading=lazy }
+    ![ex7](../../assets/bosnia/mostar_ex7.JPG){ width="169" loading=lazy }
+    ![ex8](../../assets/bosnia/mostar_ex8.JPG){ width="300" loading=lazy }

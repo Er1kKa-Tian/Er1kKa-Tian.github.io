@@ -44,10 +44,10 @@
 
 成绩当然不是学习的全部意义所在，但实际上，大家还是总被成绩所困扰着：读博至少要merit，拿funding可能需要前几名。就算是一心就业，或是因为其他原因完全不在乎绩点，也至少需要pass才能毕业——我想应该不会有人交了几十万的学费，最后连毕业证也不想要吧。所以，在进入这个项目前，或是在学习课程和规划未来的过程中，对成绩分布有个概念肯定是有利无害的。这里我画出了2022-25年里，MPhil Year 1的考试成绩分布：
 
-![](/assets/mphil_econ/decile_plot_2025.png){ loading=lazy }
-![](/assets/mphil_econ/decile_plot_2024.png){ loading=lazy }
-![](/assets/mphil_econ/decile_plot_2023.png){ loading=lazy }
-![](/assets/mphil_econ/decile_plot_2022.png){ loading=lazy }
+![](../assets/mphil_econ/decile_plot_2025.png){ loading=lazy }
+![](../assets/mphil_econ/decile_plot_2024.png){ loading=lazy }
+![](../assets/mphil_econ/decile_plot_2023.png){ loading=lazy }
+![](../assets/mphil_econ/decile_plot_2022.png){ loading=lazy }
 
 只是看这些数据，我们就已经得到不少有趣的发现了。其中最重要的就是，考试真的会有人fail，而且还不少！尤其是micro：可以看到，除了在2024年由于系里面发错卷子导致所有人都拿了至少60分以外，每一年都有至少10%的人挂科了微观（第一十分位小于50分）。所以，完全不学习并把全部精力都花在其他事情上可能并不是一个稳妥的选择。同时，微观也是grade dispersion最大的一门课。所以，花更多的时间把微观学好可能也是一种应试策略，尤其是对于需要卷funding的同学们。
 
@@ -107,7 +107,7 @@ MT Week 1开始上的三门core还是要认真学的。如果你本科也是经�
 
 ## Further Tips and Resources
 
-- [我第一年的笔记](../../resources/ox_notes.md)（主要是用来做Anki Cards的，比较简略，仅供参考）
+- [我第一年的笔记](../resources/ox_notes.md)（主要是用来做Anki Cards的，比较简略，仅供参考）
 - [Examiner Reports and Deciles](https://canvas.ox.ac.uk/courses/216633/pages/examiners-reports/) (Oxford SSO Required)
 
 ---

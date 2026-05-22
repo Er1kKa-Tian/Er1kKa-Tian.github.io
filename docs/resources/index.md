@@ -1,4 +1,4 @@
 # Resources!
 
-- [My notes for Oxford MPhin Economics](/resources/ox_notes.md)
-- [My notes for UCL BSc Economics](/resources/ucl_notes.md)
+- [My notes for Oxford MPhil Economics](ox_notes.md)
+- [My notes for UCL BSc Economics](ucl_notes.md)

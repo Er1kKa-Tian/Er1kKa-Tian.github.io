@@ -8,10 +8,10 @@ Travelling from the Pyramids in Cairo to the temples in Luxor on a 1980 East Ger
 
 <div class="grid" markdown>
 
-![](/assets/egypt_train/profile_pic_1.jpg){ loading=lazy }
+![](../../assets/egypt_train/profile_pic_1.jpg){ loading=lazy }
 { .card }
 
-![](/assets/egypt_train/profile_pic_2.jpg){ loading=lazy } 
+![](../../assets/egypt_train/profile_pic_2.jpg){ loading=lazy }
 { .card }
 
 </div>
@@ -81,16 +81,16 @@ Compared with the old station located in the congested old Cairo city, the new U
 
 Inaugurated on 12 October 2024, the Upper Egypt Station represents the frontier of railway development in Egypt. Inspired by pyramids, the station employed a unique triangular design with 2 edges as train platforms and the other one as road access. The centre hall also adopted the structure of pyramid, but built with glasses instead of stones.
 
-**Station Layout** ![](/assets/egypt_train/ue_layout.png){ loading=lazy } 
+**Station Layout** ![](../../assets/egypt_train/ue_layout.png){ loading=lazy }
 { .card }
 
 
 <div class="grid" markdown>
 
-**Entrance** ![](/assets/egypt_train/upper_egypt_1.jpg){ loading=lazy } 
+**Entrance** ![](../../assets/egypt_train/upper_egypt_1.jpg){ loading=lazy }
 { .card }
 
-**Centre Hall** ![](/assets/egypt_train/upper_egypt_2.jpg){ loading=lazy } 
+**Centre Hall** ![](../../assets/egypt_train/upper_egypt_2.jpg){ loading=lazy }
 { .card }
 
 </div>
@@ -106,30 +106,30 @@ Apart from passenger facilities, there is also a train depot and a dedicated car
 
 <div class="grid" markdown>
 
-**Ticket and Waiting Hall** ![](/assets/egypt_train/ue_hall.jpg){ loading=lazy } 
+**Ticket and Waiting Hall** ![](../../assets/egypt_train/ue_hall.jpg){ loading=lazy }
 { .card }
 
-**Paint** ![](/assets/egypt_train/ue_pic.jpg){ loading=lazy } 
-{ .card }
-
-</div>
-
-<div class="grid" markdown>
-
-**Ticket Gate** ![](/assets/egypt_train/ue_gate.jpg){ loading=lazy } 
-{ .card }
-
-**Train Depot** ![](/assets/egypt_train/ue_depot.jpg){ loading=lazy } 
+**Paint** ![](../../assets/egypt_train/ue_pic.jpg){ loading=lazy }
 { .card }
 
 </div>
 
 <div class="grid" markdown>
 
-**Platform** ![](/assets/egypt_train/ue_plat_1.jpg){ loading=lazy } 
+**Ticket Gate** ![](../../assets/egypt_train/ue_gate.jpg){ loading=lazy }
 { .card }
 
-**Platform** ![](/assets/egypt_train/ue_plat_2.jpg){ loading=lazy } 
+**Train Depot** ![](../../assets/egypt_train/ue_depot.jpg){ loading=lazy }
+{ .card }
+
+</div>
+
+<div class="grid" markdown>
+
+**Platform** ![](../../assets/egypt_train/ue_plat_1.jpg){ loading=lazy }
+{ .card }
+
+**Platform** ![](../../assets/egypt_train/ue_plat_2.jpg){ loading=lazy }
 { .card }
 
 </div>
@@ -137,10 +137,10 @@ Apart from passenger facilities, there is also a train depot and a dedicated car
 
 <div class="grid" markdown>
 
-**Station Mall** ![](/assets/egypt_train/ue_mall_3.jpg){ loading=lazy } 
+**Station Mall** ![](../../assets/egypt_train/ue_mall_3.jpg){ loading=lazy }
 { .card }
 
-**Supermarket** ![](/assets/egypt_train/ue_mall_2.jpg){ loading=lazy } 
+**Supermarket** ![](../../assets/egypt_train/ue_mall_2.jpg){ loading=lazy }
 { .card }
 
 </div>
@@ -156,16 +156,16 @@ In sharp contrast to coaches, the locomotive was a newly built GE variant import
 
 <div class="grid" markdown>
 
-**Locomotive** ![](/assets/egypt_train/train_1.jpg){ loading=lazy } GE ES30/40ACi
+**Locomotive** ![](../../assets/egypt_train/train_1.jpg){ loading=lazy } GE ES30/40ACi
 { .card }
 
-**Sleeper Trains** ![](/assets/egypt_train/train_2.jpg){ loading=lazy } Train No. 82 (left) and 86 (right). They occupy the two best platforms in the Uppder Egypt Station (passengers don't need to go through the underpass).
+**Sleeper Trains** ![](../../assets/egypt_train/train_2.jpg){ loading=lazy } Train No. 82 (left) and 86 (right). They occupy the two best platforms in the Uppder Egypt Station (passengers don't need to go through the underpass).
 { .card }
 
-**Boarding** ![](/assets/egypt_train/train_3.jpg){ loading=lazy } 
+**Boarding** ![](../../assets/egypt_train/train_3.jpg){ loading=lazy }
 { .card }
 
-**Me and My Parents :)** ![](/assets/egypt_train/train_4.jpg){ loading=lazy } 
+**Me and My Parents :)** ![](../../assets/egypt_train/train_4.jpg){ loading=lazy }
 { .card }
 
 
@@ -177,40 +177,40 @@ The interior of the train was fairly well-maintained. Each coach had different i
 
 <div class="grid" markdown>
 
-**Corridor** ![](/assets/egypt_train/corridor_1.jpg){ loading=lazy } 
+**Corridor** ![](../../assets/egypt_train/corridor_1.jpg){ loading=lazy }
 { .card }
 
-**Connection between Coaches** ![](/assets/egypt_train/corridor_2.jpg){ loading=lazy } 
-{ .card }
-
-</div>
-
-<div class="grid" markdown>
-
-**Room Numbers** ![](/assets/egypt_train/room_no_1.jpg){ loading=lazy } 
-{ .card }
-
-**Room Numbers** ![](/assets/egypt_train/room_no_2.jpg){ loading=lazy } 
+**Connection between Coaches** ![](../../assets/egypt_train/corridor_2.jpg){ loading=lazy }
 { .card }
 
 </div>
 
 <div class="grid" markdown>
 
-**Cabin (from outside)** ![](/assets/egypt_train/room_1.jpg){ loading=lazy } 
+**Room Numbers** ![](../../assets/egypt_train/room_no_1.jpg){ loading=lazy }
 { .card }
 
-**Cabin (from inside)** ![](/assets/egypt_train/room_2.jpg){ loading=lazy } 
+**Room Numbers** ![](../../assets/egypt_train/room_no_2.jpg){ loading=lazy }
 { .card }
 
 </div>
 
 <div class="grid" markdown>
 
-**Wash Basin (Folded)** ![](/assets/egypt_train/basin_1.jpg){ loading=lazy } 
+**Cabin (from outside)** ![](../../assets/egypt_train/room_1.jpg){ loading=lazy }
 { .card }
 
-**Wash Basin (Extended)** ![](/assets/egypt_train/basin_2.jpg){ loading=lazy } 
+**Cabin (from inside)** ![](../../assets/egypt_train/room_2.jpg){ loading=lazy }
+{ .card }
+
+</div>
+
+<div class="grid" markdown>
+
+**Wash Basin (Folded)** ![](../../assets/egypt_train/basin_1.jpg){ loading=lazy }
+{ .card }
+
+**Wash Basin (Extended)** ![](../../assets/egypt_train/basin_2.jpg){ loading=lazy }
 { .card }
 
 </div>
@@ -221,16 +221,16 @@ The interior of the train was fairly well-maintained. Each coach had different i
 
 <div class="grid" markdown>
 
-**Dinner** ![](/assets/egypt_train/dinner_1.jpg){ loading=lazy } 
+**Dinner** ![](../../assets/egypt_train/dinner_1.jpg){ loading=lazy }
 { .card }
 
-**Dinner** ![](/assets/egypt_train/dinner_2.jpg){ loading=lazy } 
+**Dinner** ![](../../assets/egypt_train/dinner_2.jpg){ loading=lazy }
 { .card }
 
-**Tea** ![](/assets/egypt_train/tea.jpg){ loading=lazy } 
+**Tea** ![](../../assets/egypt_train/tea.jpg){ loading=lazy }
 { .card }
 
-**Breakfast** ![](/assets/egypt_train/breakfast.jpg){ loading=lazy } 
+**Breakfast** ![](../../assets/egypt_train/breakfast.jpg){ loading=lazy }
 { .card }
 
 </div>
@@ -238,16 +238,16 @@ The interior of the train was fairly well-maintained. Each coach had different i
 
 <div class="grid" markdown>
 
-**Attendant's Room** ![](/assets/egypt_train/attendant_room_1.jpg){ loading=lazy } 
+**Attendant's Room** ![](../../assets/egypt_train/attendant_room_1.jpg){ loading=lazy }
 { .card }
 
-**Attendant's Room** ![](/assets/egypt_train/attendant_room_2.jpg){ loading=lazy } 
+**Attendant's Room** ![](../../assets/egypt_train/attendant_room_2.jpg){ loading=lazy }
 { .card }
 
-**Attendant's Room** ![](/assets/egypt_train/attendant_room_3.jpg){ loading=lazy } 
+**Attendant's Room** ![](../../assets/egypt_train/attendant_room_3.jpg){ loading=lazy }
 { .card }
 
-**Attendant's Room** ![](/assets/egypt_train/attendant_room_4.jpg){ loading=lazy } 
+**Attendant's Room** ![](../../assets/egypt_train/attendant_room_4.jpg){ loading=lazy }
 { .card }
 
 </div>
@@ -258,16 +258,16 @@ The interior of the train was fairly well-maintained. Each coach had different i
 
 <div class="grid" markdown>
 
-**Setting up the Ladder** ![](/assets/egypt_train/bed_1.jpg){ loading=lazy } 
+**Setting up the Ladder** ![](../../assets/egypt_train/bed_1.jpg){ loading=lazy }
 { .card }
 
-**Extending the Upper Berth** ![](/assets/egypt_train/bed_2.jpg){ loading=lazy } 
+**Extending the Upper Berth** ![](../../assets/egypt_train/bed_2.jpg){ loading=lazy }
 { .card }
 
-**Single Cabin** ![](/assets/egypt_train/bed_3.jpg){ loading=lazy } 
+**Single Cabin** ![](../../assets/egypt_train/bed_3.jpg){ loading=lazy }
 { .card }
 
-**Single Cabin** ![](/assets/egypt_train/bed_4.jpg){ loading=lazy } 
+**Single Cabin** ![](../../assets/egypt_train/bed_4.jpg){ loading=lazy }
 { .card }
 
 </div>
@@ -277,22 +277,22 @@ The interior of the train was fairly well-maintained. Each coach had different i
 
 <div class="grid" markdown>
 
-**Arrival** ![](/assets/egypt_train/luxor_0.jpg){ loading=lazy } 
+**Arrival** ![](../../assets/egypt_train/luxor_0.jpg){ loading=lazy }
 { .card }
 
-**Luxor Station Platform** ![](/assets/egypt_train/luxor_1.jpg){ loading=lazy } 
+**Luxor Station Platform** ![](../../assets/egypt_train/luxor_1.jpg){ loading=lazy }
 { .card }
 
-**Luxor Station Platform** ![](/assets/egypt_train/luxor_2.jpg){ loading=lazy } 
+**Luxor Station Platform** ![](../../assets/egypt_train/luxor_2.jpg){ loading=lazy }
 { .card }
 
-**Luxor Station Platform** ![](/assets/egypt_train/luxor_3.jpg){ loading=lazy } 
+**Luxor Station Platform** ![](../../assets/egypt_train/luxor_3.jpg){ loading=lazy }
 { .card }
 
-**Luxor Station Depot** ![](/assets/egypt_train/luxor_4.jpg){ loading=lazy } 
+**Luxor Station Depot** ![](../../assets/egypt_train/luxor_4.jpg){ loading=lazy }
 { .card }
 
-**Luxor Station Hall** ![](/assets/egypt_train/luxor_5.jpg){ loading=lazy } 
+**Luxor Station Hall** ![](../../assets/egypt_train/luxor_5.jpg){ loading=lazy }
 { .card }
 
 </div>
