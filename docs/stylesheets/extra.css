@@ -30,3 +30,65 @@
   -webkit-mask-image: var(--md-admonition-icon--photo);
           mask-image: var(--md-admonition-icon--photo);
 }
+
+/* Thesis export fixes: Pandoc emits raw HTML tables/figures outside MkDocs wrappers. */
+.md-typeset #ox-thesis-page ~ table.ox-thesis-table,
+.md-typeset table.ox-thesis-table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 1.25rem 0 0.35rem;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-size: 0.68rem;
+  line-height: 1.35;
+}
+
+.md-typeset table.ox-thesis-table caption {
+  caption-side: top;
+  margin-bottom: 0.45rem;
+  color: var(--md-default-fg-color);
+  font-weight: 700;
+  text-align: left;
+}
+
+.md-typeset table.ox-thesis-table th,
+.md-typeset table.ox-thesis-table td {
+  min-width: 4rem;
+  padding: 0.45rem 0.6rem;
+  vertical-align: top;
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset table.ox-thesis-table th {
+  background-color: var(--md-default-fg-color--lightest);
+  font-weight: 700;
+}
+
+.md-typeset table.ox-thesis-table td:nth-child(2),
+.md-typeset table.ox-thesis-table td:nth-child(4) {
+  white-space: normal;
+}
+
+.md-typeset .ox-thesis-note {
+  margin-top: 0.35rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.68rem;
+  line-height: 1.35;
+}
+
+.md-typeset figure.ox-thesis-figure-group {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(18rem, 100%), 1fr));
+  gap: 0.85rem;
+  align-items: start;
+}
+
+.md-typeset figure.ox-thesis-figure-group > figure {
+  margin: 0;
+}
+
+.md-typeset figure.ox-thesis-figure-group > .ox-thesis-note,
+.md-typeset figure.ox-thesis-figure-group > figcaption {
+  grid-column: 1 / -1;
+}

@@ -1,5 +1,5 @@
 <div style="margin: 0 -1rem 2rem; padding: 0;">
-  <img src="../../assets/yangyang/yangyang_and_i_exam.jpg" alt="Banner" style="width: 80%; max-height: 400px; object-fit: cover; border-radius: 8px;">
+  <img src="../../../assets/yangyang/yangyang_and_i_exam.jpg" alt="Banner" style="width: 80%; max-height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
 
 # This is a Dedicated Page for My Beloved Yangyang
@@ -64,5 +64,4 @@
 { .card }
 
 </div>
-
 

@@ -8,27 +8,15 @@
 
 ---
 
-![Welcome!](assets/profile_pic.png){ align=right width="300" }
-
-
 ## About Me :beers:
 
 I'm a graduate student from [St Hilda's College, University of Oxford](https://www.st-hildas.ox.ac.uk/), currently enrolled in the [MPhil in Economics](https://www.economics.ox.ac.uk/mphil-in-economics) programme. Previously, I got my [BSc Economics](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/economics-bsc-econ) from UCL with [Eleanora Allen Prize](https://www.ucl.ac.uk/economics/study/undergraduate/undergraduate-economics-prizes-and-winners).
 
 I was once an intern at [Asian Transport Observatory](https://asiantransportobservatory.org/) and [UCL Institute for Global Prosperity](https://www.ucl.ac.uk/bartlett/global-prosperity).
 
-I have interests in Heterodox Economics, Political Economy, Transportation (especially Railway and Aviation), Computer Science, Data Science, Photography, Music, Table Tennis, Swimming, Travelling, and Anime.
+I have interests in Economics, Political Economy, Transportation (especially Railway and Aviation), Computer Science, Data Science, Photography, Music, Table Tennis, Swimming, Travelling, and Anime.
 
 I used to play games a lot, including [Battlefield 1](https://battlefieldtracker.com/bf1/profile/origin/Er1kKa/overview), [Battlefield 5](https://battlefieldtracker.com/bfv/profile/origin/Er1kka/overview), Broken Arrow, Transport Fever, and MSFS.
-
-## Status Update
-
-What I'm doing recently:
-
-- Finishing the 2nd year of MPhil
-- Thinking about the thesis and future plans...
-- Reading various books on the rise and fall of liberalism and trade
-- Work on this website :)
 
 ## Links
 
@@ -42,8 +30,8 @@ What I'm doing recently:
 ## You may have a loot at...
 
 - My [notes for UCL BSc Economics](resources/ucl_notes.md)
-- My [experience and tips for Oxford MPhil Economics](learning/ox_mphil_econ.md) (written in Chinese) and [notes](resources/ox_notes.md)
-- My [projects](projects/index.md)
+- My [notes for Oxford MPhil Economics](resources/ox_notes.md)
+- My [projects and thesis](projects/index.md)
 - [A page dedicated to my girlfriend Yangyang](personal/yangyang/yangyang_index.md) :heart:
     - [Our Bosnia trip](travel/europe/bosnia_and_herzegovina.md)
     - [Our Singapore trip(?)](travel/asia/singapore.md)
